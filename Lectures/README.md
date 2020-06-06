@@ -6,7 +6,7 @@
 <li><a href="#course5">Laboratory Fundamentals in Biological Engineering</a></li>
 <li><a href="#course6">Thermodynamics of Biomolecular Systems</a></li>
 <li><a href="#course7">Biological Engineering Programming</a></li>
-<li><a href="#course8">Introduction to Sustainable Energy</a></li>
+<li><a href="#course8">Computation for Biological Engineers</a></li>
 <li><a href="#course9">Nuclear Reactor Safety</a></li>
 <li><a href="#course10">Applied Nuclear Physics</a></li>
 <li><a href="#course11">Microscopic Theory of Transport</a></li>
@@ -829,7 +829,151 @@
 <p>Exam 2 Review Questions (<a href="1/exam2review_ques.pdf">PDF</a>)</p>
 <p>Exam 2 Solutions (<a href="1/exam2_key.pdf">PDF</a>)</p>
 </br>
+<h2 id="course8">Computation for Biological Engineers</h2>
 
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><strong>Module 1: Phylogenetic Inference (PI) (Instructor: Prof. Alm)</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Course Overview</p>
+<p>Introduction to Phylogenetic Inference; Case Studies; Phylogenetic Trees; Quick Review of Recursion (<a href="1/pi_lec1.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Review of UPGMA; Purpose of Phylogenetics; Newick Notation (<a href="1/pi_lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Phylogenetic Trees: Overview, Possible Trees</p>
+<p>Python&reg;: Trees; Data Structure, Parsing Function (<a href="1/pi_lec3.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Parsimony; Sankoff Downpass Algorithm (<a href="1/pi_lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Downpass (cont.); Fitch's Up Pass (<a href="1/pi_lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Up Pass (cont.) (<a href="1/pi_lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Parsimony (cont.); Overall Strategy; Maximum Likelihood (ML); Jukes-Cantor; Evolutionary Model (<a href="1/pi_lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Greedy Algorithm for Trying Trees</p>
+<p>Review (<a href="1/pi_lec8.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td><strong>Module 2: Molecular Modeling / Protein Design (MM/PD) (Instructor: Prof. Alm)</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to The Protein Design Problem. What Makes Proteins Fold? Entropy (<a href="1/mmpd_lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Dihedrals, Build Order (<a href="1/mmpd_lec4.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td><strong>Module 3: Discrete Reaction Event Network Modeling (DRENM) (Instructor: Prof. Endy)</strong></td>
+</tr>
+<tr class="alt-row">
+<td>When to Use Computational Methods vs. Exact Methods; The Physics Model Underlying Exact Methods (<a href="1/drenm_lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Physics Model Underlying Exact Methods (cont.); Using Physics Model to Compute When a Reaction will Take Place. (<a href="1/drenm_lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Review of How Physics Model Leads to Computational Method; The Complete Computational Method (Gillespie's Direct and First Reaction Methods) (<a href="1/drenm_lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Difference Between Reaction Rate and Reaction Propensity; Achieving Faster Computation (<a href="1/drenm_lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Next Reaction Method Algorithm; Application to Genetic Memory (Latch) (<a href="1/drenm_lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Review of Key Concepts (<a href="1/drenm_lec6.pdf">PDF 1</a>) (<a href="1/drenm_lec6_revew.pdf">PDF 2</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SUPPORTING&nbsp;FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Module 1: Phylogenetic Inference</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Assignment 1 (<a href="1/hw1.pdf">PDF</a>)</td>
+<td>hw1_files.zip (<a href="1/hw1_files.zip">ZIP - 1.1 MB</a>) (This zip file contains: solutions to fibonacci and UPGMA portions.)</td>
+</tr>
+<tr class="row">
+<td>Assignment 2 (<a href="1/hw2.pdf">PDF</a>)</td>
+<td>hw2_files.zip (<a href="1/hw2_files.zip">ZIP</a>) (This zip file contains: codebase (hw2.py), example tree (hw2_tree.txt), and a solution (hw2_sol.py).)</td>
+</tr>
+<tr class="alt-row">
+<td>Assignment 3 (<a href="1/hw3.pdf">PDF</a>)</td>
+<td>hw3_files.zip (<a href="1/hw3_files.zip">ZIP</a>) (This zip file contains: codebase (hw3.py); example trees in Newick form (hw3_tree.txt) and diagram (hw3_tree.pdf); a helper smaller test tree with answers (hw3_helper.pdf); and solution (hw3_sol.py).)</td>
+</tr>
+<tr class="row">
+<td>Assignment 4 (<a href="1/hw4.pdf">PDF</a>)</td>
+<td>
+<p>hw4_files.zip (<a href="1/hw4_files.zip">ZIP</a>) (This zip file contains: codebase (hw4.py); example tree (hw4_tree.txt) and sequence alignment (hw4_seqs.aln); and solution (hw4_soln.py).)</p>
+<p><a href="http://en.wikibooks.org/wiki/Python_Programming/Sets">Using Sets in Python&reg;</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Assignment 5 (<a href="1/hw5.pdf">PDF</a>)</td>
+<td>hw5_files.zip (<a href="1/hw5_files.zip">ZIP</a>) (This zip file contains: codebase (hw5.py); example tree (hw5_tree.txt) and sequence alignment (hw5_seqs.aln); jukes-cantor placeholding code (hw5_evomodel_sad.pdf); a solution (hw5_sol.py); and a derivation (hw5_derivation.pdf).)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Module 2: Molecular Modeling</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Assignment 6 (<a href="1/hw6.pdf">PDF</a>)</td>
+<td>hw6_files.zip (<a href="1/hw6_files.zip">ZIP</a>) (This zip file contains: example data (hw6_data.txt) and syntax helper (hw6_helper.pdf).)</td>
+</tr>
+<tr class="row">
+<td>Assignment 7 (<a href="1/hw7.pdf">PDF</a>)</td>
+<td>hw7_files.zip (<a href="1/hw7_files.zip">ZIP</a>) (This zip file contains: example data (hw7_data.txt); Python&reg; module for vector math (vector.py); and a solution (hw7_sol.txt).)</td>
+</tr>
+<tr class="alt-row">
+<td>Assignment 8 (<a href="1/hw8.pdf">PDF</a>)</td>
+<td>hw8_files.zip (<a href="1/hw8_files.zip">ZIP</a>) (This zip file contains: code and data files.)</td>
+</tr>
+<tr class="row">
+<td>Assignment 9 (<a href="1/hw9.pdf">PDF</a>)</td>
+<td>hw9_files.zip (<a href="1/hw9_files.zip">ZIP</a>) (This zip file contains: code and data files.)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Module 3: Discrete Reaction Events</strong></td>
+</tr>
+<tr class="row">
+<td>Assignment 10 (<a href="1/hw10.pdf">PDF</a>)</td>
+<td>hw10_files.zip (<a href="1/hw10_files.zip">ZIP</a>) (This zip file contains: directory of code and data files (\media) and solutions in PDF and Python&reg; form.)</td>
+</tr>
+<tr class="alt-row">
+<td>Assignment 11 (Optional) (<a href="1/hw11.pdf">PDF</a>)</td>
+<td>hw11_files.zip (<a href="1/hw11_files.zip">ZIP</a>) (This zip file contains: directory of code and data files (\media), hints and solution.)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Exam 3 with Solution (<a href="exam3_wsoln.pdf">PDF</a>)</p>
+</br>
