@@ -15,7 +15,7 @@
 <li><a href="#course14">Molecular Structure of Biological Materials</a></li>
 <li><a href="#course15">Quantitative Physiology: Organ Transport Systems</a></li>
 <li><a href="#course16">Biological Engineering Design</a></li>
-<li><a href="#course17">Structural Mechanics in Nuclear Power Technology</a></li>
+<li><a href="#course17">Foundations of Computational and Systems Biology</a></li>
 <li><a href="#course18">Probability And Its Applications To Reliability, Quality Control, And Risk Assessment</a></li>
 <li><a href="#course19">Integration of Reactor Design, Operations, and Safety</a></li>
 <li><a href="#course20">Fundamentals of Advanced Energy Conversion</a></li>
@@ -1890,3 +1890,144 @@
 </tbody>
 </table>
 </br>
+<h2 id="course17">Foundations of Computational and Systems Biology</h2>
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="3/MIT7_91JS14_Lecture1.pdf">Course Introduction: History of Computational Biology; Overview of the Course; Course Policies and Mechanics; DNA Sequencing Technologies (PDF - 5.0MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Genomic Analysis</strong></td>
+</tr>
+<tr class="row">
+<td><a href="3/MIT7_91JS14_Lecture2.pdf">Local Alignment (BLAST) and Statistics (PDF - 2.0MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="3/MIT7_91JS14_Lecture3.pdf">Global Alignment of Protein Sequences (NW, SW, PAM, BLOSUM) (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="3/MIT7_91JS14_Lecture4.pdf">Comparative Genomic Analysis of Gene Regulation (PDF - 2.9MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Genomic Analysis&mdash;Next Gen Sequencing</strong></td>
+</tr>
+<tr class="row">
+<td><a href="3/MIT7_91JS14_Lecture5.pdf">Library Complexity and Short Read Alignment (Mapping) (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="3/MIT7_91JS14_Lecture6.pdf">Genome Assembly (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="3/MIT7_91JS14_Lecture7.pdf">ChIP-seq Analysis; DNA-protein Interactions (PDF - 2.0MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT7_91JS14_Lecture8.pdf">RNA-sequence Analysis: Expression, Isoforms (PDF - 2.9MB)</a></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Modeling Biological Function</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="3/MIT7_91JS14_Lecture9.pdf">Modeling and Discovery of Sequence Motifs (Gibbs Sampler, Alternatives) (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="3/MIT7_91JS14_Lecture10.pdf">Markov and Hidden Markov Models of Genomic and Protein Features (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="3/MIT7_91JS14_Lecture11.pdf">RNA Secondary Structure&ndash;Biological Functions and Prediction (PDF - 1.6MB)</a></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Proteomics</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="3/MIT7_91JS14_Lecture12.pdf">Introduction to Protein Structure; Structure Comparison and Classification (PDF - 3.1MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="3/MIT7_91JS14_Lecture13.pdf">Predicting Protein Structure (PDF - 3.4MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="3/MIT7_91JS14_Lecture14.pdf">Predicting Protein Interactions (PDF - 4.7MB)</a></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Regulatory Networks</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="3/MIT7_91JS14_Lecture15.pdf">Gene Regulatory Networks (PDF - 6.1MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="3/MIT7_91JS14_Lecture16.pdf">Protein Interaction Networks (PDF - 7.6MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="3/MIT7_91JS14_Lecture17.pdf">Logic Modeling of Cell Signaling Networks (PDF - 3.1MB)</a>&nbsp;Guest Lecture:&nbsp;<a href="http://web.mit.edu/dallab/index.html">Doug Lauffenburger</a></td>
+</tr>
+<tr class="row">
+<td><a href="3/MIT7_91JS14_Lecture18.pdf">Analysis of Chromatin Structure (PDF - 3.8MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Computational Genetics</strong></td>
+</tr>
+<tr class="row">
+<td><a href="3/MIT7_91JS14_Lecture19.pdf">Discovering Quantitative Trait Loci (QTLs) (PDF - 2.8MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="3/MIT7_91JS14_Lecture20.pdf">Human Genetics, SNPs, and Genome Wide Associate Studies (PDF - 3.3MB)</a></td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">PROBLEM&nbsp;SETS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Sequence Search, Global Alignment, BLAST Statistics</td>
+<td><a href="3/MIT7_91JS14_Pset1_Ques.pdf">Problem Set 1 (PDF)</a></td>
+<td><a href="3/MIT7_91JS14_Pset1_ans.pdf">Solutions to Problem Set 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>BWT, Library Complexity, RNA-seq, Genome Assembly, Motifs, Multiple Hypothesis Testing</td>
+<td>
+<p><a href="3/MIT7_91JS14_pset2_ques.pdf">Problem Set 2 (PDF)</a></p>
+<p><a href="3/pset_2_coding_portion.zip">Problem Set 2 Files (ZIP)</a>&nbsp;(This ZIP file contains: 4 .py files, 1 .index file, and .3 txt files)</p>
+</td>
+<td><a href="3/MIT7_91JS14_pset2_ans.pdf">Solutions to Problem Set 2&nbsp;(PDF - 1.4MB)</a></td>
+</tr>
+<tr class="row">
+<td>Gibbs Sampler, RNA Secondary Structure, Protein Structure with PyRosetta, Connections</td>
+<td>
+<p><a href="3/MIT7_91JS14_pset3_ques.pdf">Problem Set 3 (PDF)</a></p>
+<p><a href="3/Problem_set_3.zip">Problem Set 3 Files (ZIP)</a>&nbsp;(This ZIP file contains: 3 .py files, 3 .fa files, and .1 txt file)</p>
+</td>
+<td><a href="3/MIT7_91JS14_pset3_ans.pdf">Solutions to Problem Set 3 (PDF - 1.5MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Bayesian Networks, Refining Protein Structures in PyRosetta, Mutual Information of Protein Residues</td>
+<td>
+<p><a href="3/MIT7_91JS14_pset4_ques.pdf">Problem Set 4 (PDF)</a></p>
+<p><a href="3/Problem_set_4.zip">Problem Set 4 Files (ZIP)</a>&nbsp;(This ZIP file contains: 3 .py files and 2 .fasta files)</p>
+</td>
+<td><a href="3/MIT7_91JS14_pset4_ans.pdf">Solutions to Problem Set 4 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Network Statistics, Chromatin Structure, Heritability, Association Testing</td>
+<td>
+<p><a href="3/MIT7_91JS14_pset5_ques.pdf">Problem Set 5 (PDF - 1.1MB)</a></p>
+<p>Problem Set 5 Files (ZIP)</p>
+</td>
+<td><a href="3/MIT7_91JS14_pset5_ans.pdf">Solutions to Problem Set 5 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
