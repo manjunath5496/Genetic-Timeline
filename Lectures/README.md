@@ -3,7 +3,7 @@
 <li><a href="#course2">Introduction to Biological Engineering Design</a></li>
 <li><a href="#course3">Chemicals in the Environment: Toxicology and Public Health</a></li>
 <li><a href="#course4">Systems Microbiology</a></li>
-<li><a href="#course5">Neutron Science and Reactor Physics</a></li>
+<li><a href="#course5">Laboratory Fundamentals in Biological Engineering</a></li>
 <li><a href="#course6">Principles of Medical Imaging</a></li>
 <li><a href="#course7">Engineering of Nuclear Systems</a></li>
 <li><a href="#course8">Introduction to Sustainable Energy</a></li>
@@ -479,6 +479,178 @@
 <tr class="alt-row">
 <td>Problem Set 6 (<a href="1/ps6.pdf">PDF</a>)</td>
 <td>(<a href="1/ps6_sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course5">Laboratory Fundamentals in Biological Engineering</h2>
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">MODULE&nbsp;DAY</th>
+<th scope="col">LECTURE TOPICS</th>
+<th scope="col">LECTURE SLIDES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>&nbsp;</td>
+<td>Orientation</td>
+<td>(<a href="MIT20_109S10_lec_intro.pdf">PDF - 1.7MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="4">
+<p><strong>Module 1: RNA Engineering (Prof. Niles)</strong></p>
+<p><em>The Module 1 lecture notes are not available for OCW</em>,&nbsp;<em>except for the following writing and communications content.</em></p>
+</td>
+</tr>
+<tr class="row">
+<td rowspan="2">2</td>
+<td>Writing and communications introduction (Neal Lerner)</td>
+<td>(<a href="MIT20_109S10_lec_m1d2_w1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Language of Biological Engineering Reports (Linda Sutliff)</td>
+<td>(<a href="MIT20_109S10_lec_m1d2_w2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>5</td>
+<td>Creating your 20.109 presentation (Atissa Banuazizi)</td>
+<td><span class="nobr">(<a href="MIT20_109S10_lec_m1d5_w.pdf">PDF - 1.4MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td colspan="4"><strong>Module 2: Protein Engineering (Prof. Jasanoff)</strong></td>
+</tr>
+<tr class="alt-row">
+<td>1</td>
+<td>Introduction</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT20_109S10_lec_m2d1.pdf">PDF - 1.6MB</a>)</td>
+</tr>
+<tr class="row">
+<td>2</td>
+<td>Rational protein design</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT20_109S10_lec_m2d2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>3</td>
+<td>Fluorescence and sensors</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT20_109S10_lec_m2d3.pdf">PDF - 1.3MB</a>)</td>
+</tr>
+<tr class="row">
+<td>4</td>
+<td>Protein expression</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT20_109S10_lec_m2d4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>5</td>
+<td>Review &amp; gene analysis</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT20_109S10_lec_m2d5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>6</td>
+<td>Purification and protein analysis</td>
+<td><span class="nobr">(<a href="MIT20_109S10_lec_m2d6.pdf">PDF - 2.0MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>7</td>
+<td>Binding &amp; affinity measurements</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT20_109S10_lec_m2d7.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>8</td>
+<td>High throughput engineering</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT20_109S10_lec_m2d8.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="4"><strong>Module 3: Cell-Biomaterial Engineering (Dr. Stachowiak)</strong></td>
+</tr>
+<tr class="row">
+<td>1</td>
+<td>Introduction</td>
+<td>
+<p>(<a href="MIT20_109S10_lec_m3d1.pdf">PDF -&nbsp;1.5MB</a>)</p>
+
+</td>
+</tr>
+<tr class="alt-row">
+<td>2</td>
+<td>Introduction to biomaterials; cartilage composition</td>
+<td>(<a href="MIT20_109S10_lec_m3d2.pdf">PDF - 1.6MB</a>)</td>
+</tr>
+<tr class="row">
+<td>3</td>
+<td>Basic statistics; standards in scientific communities I</td>
+<td>(<a href="MIT20_109S10_lec_m3d3.pdf">PDF -&nbsp;1.1MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>4</td>
+<td>Standards in scientific communities II; cell viability</td>
+<td>(<a href="MIT20_109S10_lec_m3d4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>5</td>
+<td>Assays for transcription and protein levels</td>
+<td>(<a href="MIT20_109S10_lec_m3d5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>6</td>
+<td>Cartilage TE: from&nbsp;<em>in vitro</em>&nbsp;and&nbsp;<em>in vivo</em>&nbsp;models to the clinic</td>
+<td>(<a href="MIT20_109S10_lec_m3d6.pdf">PDF - 1.5MB</a>)</td>
+</tr>
+<tr class="row">
+<td>7</td>
+<td>Creating your proposal presentation (Atissa Banuazizi)</td>
+<td>(<a href="MIT20_109S10_lec_m3d7_w.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">MODULE&nbsp;#</th>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SUPPORTING&nbsp;FILES</th>
+<th scope="col">STUDENT&nbsp;WORK&nbsp;EXAMPLES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>1</td>
+<td>
+<p><a href="mod1">Genome engineering portfolio</a></p>
+</td>
+<td>
+<h3 class="subsubhead">From Atissa Banuazizi</h3>
+<p>Lecture slides on creating 20.109 presentations (<a href="lec1_5_atissa.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>2</td>
+<td>
+<p><a href="mod2">Expression engineering written report</a></p>
+</td>
+<td>
+<h3 class="subsubhead">From Neal Lerner</h3>
+<p>Lecture slides on writing research reports (<a href="lec2_4_writing.pdf">PDF</a>)</p>
+<p>A guide to scientific writing (<a href="sci_writing_guid.pdf">PDF</a>) </p>
+<p>Techniques for responding to a peer's writing (<a href="lerner_revie_tip.pdf">PDF</a>)</p>
+</td>
+<td>"Experimental siRNA targeting the 469-624bp region of Renilla Luciferase is ineffective in reducing expression in mouse embryonic stem cells" (<a href="mod2_knan_tntri.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td>3</td>
+<td>
+<p><a href="mod3">Biomaterials engineering oral presentation</a></p>
+</td>
+<td>
+<h3 class="subsubhead">From Atissa Banuazizi</h3>
+<p>Lecture slides on creating research proposal presentations (<a href="lec3_2_atissa.pdf">PDF</a>)</p>
+</td>
+<td>"Expression of dsRNA in Spirogyna algae to inhibit development of malaria carrying mosquitoes" (<a href="mod3_blue.pdf">PDF</a>)&nbsp;</td>
 </tr>
 </tbody>
 </table>
