@@ -12,7 +12,7 @@
 <li><a href="#course11">Analysis of Biomolecular and Cellular Systems</a></li>
 <li><a href="#course12">Fields, Forces and Flows in Biological Systems</a></li>
 <li><a href="#course13">Materials for Biomedical Applications</a></li>
-<li><a href="#course14">Materials in Nuclear Engineering</a></li>
+<li><a href="#course14">Molecular Structure of Biological Materials</a></li>
 <li><a href="#course15">Engineering of Nuclear Reactors</a></li>
 <li><a href="#course16">Thermal Hydraulics in Power Technology</a></li>
 <li><a href="#course17">Structural Mechanics in Nuclear Power Technology</a></li>
@@ -1671,4 +1671,81 @@
 <p>Solutions to the Sample Final Exam (<a href="pracfinalsol.pdf">PDF</a>)</p>
 </br>
 
+<h2 id="course14">Molecular Structure of Biological Materials</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr style="height: 13px;">
+<th style="height: 13px;">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Important Role of Water Molecule, Hydration of Amino Acids, Protein and other Biological Materials (<a href="090805.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Amino Acids: Their Chemical and Physical Properties (<a href="091305.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Beta Sheets: Antiparallel, Parallel, and Twist; Beta Sheet Rich Proteins;&nbsp;Beta Sheets in Biological Materials (<a href="092705.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Practical Aspects of Single Crystal X-ray Crystallography, Part 1: X-ray Single Crystal Diffraction, Fiber Diffraction, and Preparation of Samples (<a href="092905.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">NMR (Guest Lecturer: Peter Carr, MIT Media Lab) (<a href="100405.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Practical Aspects of Single Crystal X-ray Crystallography, Part 2 (<a href="100605.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Analytical Approaches and Instrumentation (Guest Lecturer: Sotirus Koutsopoulos, Ph.D) (<a href="101305.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Silk (<a href="101805.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Biomineralization: Sea Creatures (<a href="102005.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Biomineralization: Bones and Teeth (<a href="102505.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Bioadhesives (<a href="102705.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Lipids as Building Materials (<a href="110105.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Polysaccharides and Oligosaccharides (<a href="110305.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Francis Crick Film</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Molecular Structure and Self-assembly of DNA and RNA (<a href="111005.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 39px;">
+<td style="height: 39px;">Macromolecular Interactions and Protein and Adsorption (Guest Lecturer: Larry Unsworth, Ph.D, National Institute for Nanotechnology) (<a href="111505.pdf">PDF</a>)<br /><br />Crystallography (Guest lecturer: Liselotte Kaiser, MIT Center for Biomedical Engineering)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">DNA Molecular Machines (<a href="111705.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Fluorescent Proteins (<a href="112205.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Self-assembling Peptide Systems (Dr. Zhang's Research) (<a href="112905.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 39px;">
+<td style="height: 39px;">Self-assembling Peptide Systems (Dr. Zhang's Research) (cont.) (<a href="120105.pdf">PDF</a>)<br /><br />Applying Biomimicry to Nanotechnology (Guest Lecture by Andreas Mershin)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Research in Biomaterials (<a href="120605.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
 
+</br>
+<p>Probing 2-D Reaction Coordinates of Amino Acid/Surface Binding by David Appleyard. (<a href="propappleyard.pdf">PDF</a>)</p>
+
+</br>
