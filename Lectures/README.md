@@ -2263,10 +2263,7 @@
 <td>Implants for bone regeneration</td>
 <td>(<a href="3/MIT20_441JF09_lec22_ms.pdf">PDF - 4.0MB</a>)&nbsp;</td>
 </tr>
-<tr class="alt-row">
-<td>Regeneration of soft musculoskeletal tissues</td>
-<td>File not available</td>
-</tr>
+
 <tr class="row">
 <td>Biomaterial applications in the heart and other organs</td>
 <td>(<a href="3/MIT20_441JF09_lec24_ms.pdf">PDF - 3.7MB</a>)</td>
