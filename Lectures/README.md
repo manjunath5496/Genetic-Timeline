@@ -1,7 +1,7 @@
 <ul>
 <li><a href="#course1">Introduction to Bioengineering</a></li>
 <li><a href="#course2">Introduction to Biological Engineering Design</a></li>
-<li><a href="#course3">Introduction to Applied Nuclear Physics</a></li>
+<li><a href="#course3">Chemicals in the Environment: Toxicology and Public Health</a></li>
 <li><a href="#course4">Nuclear Systems Design Project</a></li>
 <li><a href="#course5">Neutron Science and Reactor Physics</a></li>
 <li><a href="#course6">Principles of Medical Imaging</a></li>
@@ -181,3 +181,127 @@
 </tbody>
 </table>
 </br>
+<h2 id="course3">Chemicals in the Environment: Toxicology and Public Health</h2>
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th id="tbl589id0_1" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl589id0_1">
+<p>Introductory Lecture (<a href="lec1_green.pdf">PDF 1</a>) (<a href="lec1_jls.pdf">PDF 2</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl589id0_1">
+<p>Watch film&nbsp;<a href="http://www.imdb.com/title/tt0120633/"><em>A Civil Action</em></a></p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl589id0_1">
+<p>From the Real World to Hollywood and Back Again (<a href="lec3_green.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl589id0_1">
+<p>Epidemiology: Persons, Places, and Time (<a href="lec4_jls.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl589id0_1">
+<p>Epidemiology: Test Development and Relative Risk (<a href="lec5_jls.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl589id0_1">
+<p>Biostatistics: Concepts in Variance (<a href="lec6_exercise.pdf">PDF 1</a>) (<a href="lec6_jls.pdf">PDF 2</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl589id0_1">
+<p>Biostatistics: Distribution and the Mean</p>
+<p>Confidence Intervals (<a href="lec7_jls.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl589id0_1">
+<p>Biostatistics: Detecting Differences and Correlations (<a href="lec8_jls.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl589id0_1">
+<p>Biostatistics: Poisson Analyses and Power (<a href="lec9_jls.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl589id0_1">
+<p>Environetics: Cause and Effect (<a href="lec10.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl589id0_1">
+<p>Environetics: Putting it all together - Evaluating Studies (<a href="lec12_jls.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Evaluating Environmental Causes of Mesothelioma (<a href="lec14_jls.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl589id0_1">
+<p>Quantitative Risk Assessment 2 (<a href="lec16_green.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Quantitative Risk Assessment 3 (<a href="lec22_green.pdf">PDF</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th scope="col">PROBLEM SETS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="ps1.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set&nbsp;2 (<a href="ps2.pdf">PDF</a>)</td>
+<td>(<a href="ps2_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set&nbsp;3 (<a href="ps3.pdf">PDF</a>)</td>
+<td>(<a href="ps3_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set&nbsp;4 (<a href="ps4.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Problem Set&nbsp;5 (<a href="ps5.pdf">PDF</a>)</td>
+<td>(<a href="ps5_soln.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Paper by Sueann Lee (<a href="teapaper_lee.pdf">PDF</a>)</p>
+<p>Paper by Jessica Hagelstein (<a href="teapaper_hagelst.pdf">PDF</a>)</p>
+<p>Paper by Erin Shea (<a href="teapaper_shea.pdf">PDF</a>)</p>
+</br>
+<p>Quiz 1 with solutions (<a href="quiz1_w_ans.pdf">PDF</a>)</p>
+</br>
+
+
+
