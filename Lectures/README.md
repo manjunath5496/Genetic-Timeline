@@ -11,7 +11,7 @@
 <li><a href="#course10">Molecular, Cellular, and Tissue Biomechanics</a></li>
 <li><a href="#course11">Analysis of Biomolecular and Cellular Systems</a></li>
 <li><a href="#course12">Fields, Forces and Flows in Biological Systems</a></li>
-<li><a href="#course13">Neutron Interactions and Applications</a></li>
+<li><a href="#course13">Materials for Biomedical Applications</a></li>
 <li><a href="#course14">Materials in Nuclear Engineering</a></li>
 <li><a href="#course15">Engineering of Nuclear Reactors</a></li>
 <li><a href="#course16">Thermal Hydraulics in Power Technology</a></li>
@@ -1540,3 +1540,135 @@
 </tbody>
 </table>
 </br>
+<h2 id="course13">Materials for Biomedical Applications</h2>
+
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><em>Course Introduction</em>&nbsp;(<a href="2/lecture1.pdf">PDF</a>)<br /><br />Biomaterials Defined<br /><br />Structural Hierarchy in Materials and Biology</td>
+</tr>
+<tr class="alt-row">
+<td><em>Biomaterials Surfaces: Physics</em>&nbsp;(<a href="2/lecture2.pdf">PDF</a>)<br /><br />Surface (vs. Bulk) Structure and Properties<br /><br />Surface Energy<br /><br />Adsorption, Segregation, and Reconstruction at Surfaces</td>
+</tr>
+<tr class="row">
+<td><em>Biomaterials Surfaces: Chemistry</em>&nbsp;(<a href="2/lecture3.pdf">PDF</a>)<br /><br />Reactions at Surfaces: Chemisorption, Corrosion</td>
+</tr>
+<tr class="alt-row">
+<td><em>Biomaterials Surfaces: Chemistry (cont.)</em>&nbsp;(<a href="2/lecture4.pdf">PDF</a>)<br /><br />Hydrolysis (Dr. Taniguchi) (<a href="2/lecture4_2.pdf">PDF - 1.3 MB</a>)</td>
+</tr>
+<tr class="row">
+<td><em>Protein-Surface Interactions</em>&nbsp;(<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/lecture5.pdf">PDF</a>)<br /><br />Proteins: Structure, Properties, Functions<br /><br />Protein Adsorption: Langmuir Model</td>
+</tr>
+<tr class="alt-row">
+<td><em>Protein-Surface Interactions (cont.)</em>&nbsp;(<a href="2/lecture6.pdf">PDF</a>)<br /><br />Protein Adbsorption: Complex Phenomena, Measurement</td>
+</tr>
+<tr class="row">
+<td><em>Cell-Surface Interactions: Host Response to Biomaterials</em>&nbsp;(<a href="2/lecture7.pdf">PDF - 1.3 MB</a>)<br /><br />Cell Adhesion Mechanisms<br /><br />Coagulation Cascade</td>
+</tr>
+<tr class="alt-row">
+<td><em>Cell-Surface Interactions: Host Response to Biomaterials (cont.)</em>&nbsp;(<a href="2/lecture8.pdf">PDF</a>)<br /><br />Immune Response: Alternative Complement Activation</td>
+</tr>
+<tr class="row">
+<td><em>Surface Modification Methods</em>&nbsp;(<a href="2/lecture9.pdf">PDF</a>)<br /><br />Purposes<br /><br />Plasma Treatments<br /><br />Organic Coatings (Dr. Taniguchi) (<a href="2/lecture9_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><em>Surface Modification Methods (cont.)</em>&nbsp;(<a href="2/lecture10.pdf">PDF</a>)<br /><br />Polymer Coatings<br /><br />Patterned Surfaces</td>
+</tr>
+<tr class="row">
+<td><em>Surface Characterization</em>&nbsp;(<a href="2/lecture11.pdf">PDF</a>)<br /><br />In Vacuum: XPS/ESCA, AES, SIMS</td>
+</tr>
+<tr class="alt-row">
+<td><em>Surface Characterization In situ</em>&nbsp;(<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/lecture12.pdf">PDF</a>)<br /><br />Contact Angle, AFM</td>
+</tr>
+<tr class="row">
+<td><em>Quantifying Cell Behavior</em>&nbsp;(<a href="2/lecture13.pdf">PDF</a>)<br /><br />Cell Cultures<br /><br />Cellular Assays: Adhesion, Migration, Proliferation</td>
+</tr>
+<tr class="alt-row">
+<td><em>Quantifying Cell Behavior (cont.)</em>&nbsp;(<a href="2/lecture14.pdf">PDF</a>)<br /><br />Cellular Assays: Differentiation, Function</td>
+</tr>
+<tr class="row">
+<td><em>Statistical Analysis</em>&nbsp;(<a href="2/lecture15.pdf">PDF</a>)<br /><br />Error Sources, Distribution Functions, t- test</td>
+</tr>
+<tr class="alt-row">
+<td><em>Statistical Analysis (cont.)</em>&nbsp;(<a href="2/lecture16.pdf">PDF</a>)<br /><br />Fisher Test, Regression Methods</td>
+</tr>
+<tr class="row">
+<td><em>Biosensors and Diagnostic Devices</em>&nbsp;(<a href="2/lecture17.pdf">PDF</a>)<br /><br />Biological Elements<br /><br />Transduction Mechanisms<br /><br />Properties<br /><br /><em>Examples: Fiber Optic Biosensors, Nanobarcodes</em></td>
+</tr>
+<tr class="alt-row">
+<td><em>Drug Delivery: Controlled Release (Dr. Taniguchi)</em>&nbsp;(<a href="2/lecture18.pdf">PDF</a>)<br /><br />Chemically-controlled Devices</td>
+</tr>
+<tr class="row">
+<td><em>Drug Delivery: Controlled Release (cont.)</em>&nbsp;(<a href="2/lecture19.pdf">PDF</a>)<br /><br />Diffusion-controlled, Membrane-based and Osmotic Devices</td>
+</tr>
+<tr class="alt-row">
+<td><em>Drug Delivery: Controlled Release (cont.)</em>&nbsp;(<a href="2/lecture20.pdf">PDF</a>)<br /><br />Methods: Transdermal, Colloidal Vehicles<br /><br />Mechanical Pumps</td>
+</tr>
+<tr class="row">
+<td><em>Biomaterials for Organ Replacement</em>&nbsp;(<a href="2/lecture21.pdf">PDF</a>)<br /><br />Organ Replacement Therapies<br /><br />Mechanical Properties<br /><br />Bone Substitutes</td>
+</tr>
+<tr class="alt-row">
+<td><em>Tissue Engineering</em>&nbsp;(<a href="2/lecture22.pdf">PDF</a>)<br /><br />Cell Types<br /><br />Approaches: In vitro, In vivo, Ex vivo/Cell Encapsulation<br /><br />Scaffolds: Design and Fabrication</td>
+</tr>
+<tr class="row">
+<td><em>Tissue Engineering (cont.)</em>&nbsp;(<a href="2/lecture23.pdf">PDF</a>)<br /><br />Case Examples: Artificial Pancreas, Cartilage, Nerve Regeneration</td>
+</tr>
+<tr class="alt-row">
+<td>FDA Regulatory Issues and Course Evaluations (<a href="2/lecture24.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="2/ps1.pdf">PDF</a>)</td>
+<td>(<a href="2/ps1_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="2/ps2.pdf">PDF</a>)</td>
+<td>(<a href="2/ps2_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<a href="2/ps3.pdf">PDF</a>)</td>
+<td>(<a href="2/ps3_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4 (<a href="2/ps4.pdf">PDF</a>)</td>
+<td>(<a href="2/ps4_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 5 (<a href="2/ps5.pdf">PDF</a>)</td>
+<td>(<a href="2/ps5_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 6 (<a href="2/ps6.pdf">PDF</a>)</td>
+<td>(<a href="2/ps6_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 7 (<a href="2/ps7.pdf">PDF</a>)</td>
+<td>(<a href="2/ps7_sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<p>Sample Final Exam (<a href="pracfinal.pdf">PDF</a>)</p>
+<p>Solutions to the Sample Final Exam (<a href="pracfinalsol.pdf">PDF</a>)</p>
+</br>
+
+
