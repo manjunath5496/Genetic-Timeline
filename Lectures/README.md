@@ -2,7 +2,7 @@
 <li><a href="#course1">Introduction to Bioengineering</a></li>
 <li><a href="#course2">Introduction to Biological Engineering Design</a></li>
 <li><a href="#course3">Chemicals in the Environment: Toxicology and Public Health</a></li>
-<li><a href="#course4">Nuclear Systems Design Project</a></li>
+<li><a href="#course4">Systems Microbiology</a></li>
 <li><a href="#course5">Neutron Science and Reactor Physics</a></li>
 <li><a href="#course6">Principles of Medical Imaging</a></li>
 <li><a href="#course7">Engineering of Nuclear Systems</a></li>
@@ -302,6 +302,184 @@
 </br>
 <p>Quiz 1 with solutions (<a href="quiz1_w_ans.pdf">PDF</a>)</p>
 </br>
+<h2 id="course4">Systems Microbiology</h2>
 
 
+<table summary="See table caption for summary.">
+<thead>
+<tr style="height: 13px;">
+<th style="height: 13px;" scope="col">TOPICS</th>
+<th style="height: 13px;" scope="col">SLIDES</th>
+<th style="height: 13px;" scope="col">NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Early Earth/Microbial Evolution</td>
+<td style="height: 13px;"><span class="nobr">(<a href="slides01.pdf">PDF - 2.4 MB</a>)</span></td>
+<td style="height: 13px;">(<a href="lecture01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Cell Structure/Function</td>
+<td style="height: 13px;">(<a href="slides02.pdf">PDF - 2.2 MB</a>)</td>
+<td style="height: 13px;">(<a href="lecture02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Biological Energy Conservation</td>
+<td style="height: 13px;">(<a href="slides03.pdf">PDF - 2.1 MB</a>)</td>
+<td style="height: 13px;">(<a href="lecture03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Microbial Growth</td>
+<td style="height: 13px;">(<a href="slides04.pdf">PDF</a>)</td>
+<td style="height: 13px;">(<a href="lecture04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Metabolic Regulation</td>
+<td style="height: 13px;">(<a href="slides05.pdf">PDF - 1.6 MB</a>)</td>
+<td style="height: 13px;">(<a href="lecture05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Virology</td>
+<td style="height: 13px;">(<a href="slides06.pdf">PDF - 4.3 MB</a>)</td>
+<td style="height: 13px;">(<a href="lecture06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Information Flow in Biological Systems</td>
+<td style="height: 13px;">(<a href="slides07.pdf">PDF - 1.3 MB</a>)</td>
+<td style="height: 13px;">(<a href="lecture07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Midterm I</td>
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">&nbsp;</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Regulation of Cell Activity</td>
+<td style="height: 13px;">(<a href="slides08.pdf">PDF - 1.6 MB</a>)</td>
+<td style="height: 13px;">(<a href="lecture08.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Genetic Exchange in Bacteria</td>
+<td style="height: 13px;">(<a href="slides09.pdf">PDF</a>)</td>
+<td style="height: 13px;">(<a href="lecture09.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Experimental Evolution: Optimization of Metabolic Systems</td>
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">&nbsp;</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Genomics I</td>
+<td style="height: 13px;">(<a href="slides11.pdf">PDF</a>)</td>
+<td style="height: 13px;">(<a href="lecture11.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Genomics II</td>
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">(<a href="lecture12.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Metabolic Diversity I</td>
+<td style="height: 13px;">(<a href="slides13.pdf">PDF</a>)</td>
+<td style="height: 13px;">(<a href="lecture13.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Metabolic Diversity II</td>
+<td style="height: 13px;">(<a href="slides14.pdf">PDF - 2.1 MB</a>)</td>
+<td style="height: 13px;">(<a href="lecture14.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Microbial Ecology</td>
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">(<a href="lecture15.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Midterm II</td>
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">&nbsp;</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Microbial Growth Control</td>
+<td style="height: 13px;">(<a href="slides16.pdf">PDF</a>)</td>
+<td style="height: 13px;">(<a href="lecture16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Microbe-host Interactions</td>
+<td style="height: 13px;">(<a href="slides17.pdf">PDF</a>)</td>
+<td style="height: 13px;">(<a href="lecture17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Immunology I</td>
+<td style="height: 13px;">(<a href="slides18.pdf">PDF - 3.4 MB</a>)</td>
+<td style="height: 13px;">(<a href="lecture18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Immunology II</td>
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">(<a href="lecture19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Diagnostic Microbiology</td>
+<td style="height: 13px;">(<a href="slides20.pdf">PDF</a>)</td>
+<td style="height: 13px;">(<a href="lecture20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Person-to-person Transmission</td>
+<td style="height: 13px;">(<a href="slides21.pdf">PDF</a>)</td>
+<td style="height: 13px;">(<a href="lecture21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Epidemiology</td>
+<td style="height: 13px;">(<a href="slides22.pdf">PDF</a>)</td>
+<td style="height: 13px;">(<a href="lecture22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Animal- and Arthropod-transmitted Diseases</td>
+<td style="height: 13px;">(<a href="slides23.pdf">PDF</a>)</td>
+<td style="height: 13px;">(<a href="lecture23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Review</td>
+<td style="height: 13px;">&nbsp;</td>
+<td style="height: 13px;">(<a href="lecture24.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="1/ps1.pdf">PDF</a>)</td>
+<td>(<a href="1/ps1_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="1/ps2.pdf">PDF</a>)</td>
+<td>(<a href="1/ps2_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<a href="1/ps3.pdf">PDF</a>)</td>
+<td>(<a href="1/ps3_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4 (<a href="1/ps4.pdf">PDF</a>)</td>
+<td>(<a href="1/ps4_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 5 (<a href="1/ps5.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 6 (<a href="1/ps6.pdf">PDF</a>)</td>
+<td>(<a href="1/ps6_sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
