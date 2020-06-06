@@ -22,15 +22,9 @@
 <li><a href="#course21">Molecular and Cellular Pathophysiology </a></li>
 <li><a href="#course22">Design of Medical Devices and Implants</a></li>
 <li><a href="#course23">Biomedical Information Technology</a></li>
-<li><a href="#course24">Introduction to Plasma Physics I</a></li>
+<li><a href="#course24">Molecular Principles of Biomaterials</a></li>
 <li><a href="#course25">MHD Theory of Fusion Systems</a></li>
-<li><a href="#course26">Plasma Transport Theory</a></li>
-<li><a href="#course27">Superconducting Magnets</a></li>
-<li><a href="#course28">Introduction to Sustainable Energy</a></li> 
- <li><a href="#course29">Managing Nuclear Technology</a></li> 
-  <li><a href="#course30">A Hands-On Introduction to Nuclear Magnetic Resonance</a></li>
-   <li><a href="#course31">Nuclear Power Plant Dynamics and Control</a></li> 
-    <li><a href="#course32">Career Options for Biomedical Research</a></li> 
+
 
 </ul>
 <p>&nbsp;</p>
@@ -2528,3 +2522,310 @@
 </tbody>
 </table>
 </br>
+<h2 id="course24">Molecular Principles of Biomaterials</h2>
+
+
+<table>
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">SLIDES</th>
+<th scope="col">ANNOTATED</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>Overview of Course, Orientation to Current Approaches and Types of Molecularly-designed Biomaterials</p>
+<h3 class="subsubhead">Biodegradable Polymeric Solids</h3>
+<p>Chemistry and Physical Chemistry of Hydrolysis</p>
+<p>Links between Materials Structure and Hydrolysis Mechanisms</p>
+</td>
+<td><span class="nobr">(<a href="4/lec1_clean.pdf">PDF - 1.6 MB</a>)</span></td>
+<td><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/lec1_annotated.pdf">PDF - 1.7 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Biodegradable Polymeric Solids (cont.)</h3>
+<p>Factors Controlling Polymer Degradation Rates</p>
+<p>Theory of Solid Polymer Erosion</p>
+<p>Tailoring Degradable Polymer Structure and Composition</p>
+</td>
+<td>(<a href="4/lec2_clean.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/lec2_annotated.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Controlled Release Devices</h3>
+<p>Types of Controlled Release Devices</p>
+<p>Degradable Materials in Controlled Release Devices</p>
+<p>Physical Chemistry Principles in Delivering Small Molecules vs. Proteins</p>
+</td>
+<td>(<a href="4/lec3_clean.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/lec3_annotated.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Controlled Release Devices (cont.)</h3>
+<p>Theory of Drug Release in Eroding Systems</p>
+</td>
+<td>(<a href="4/lec4_clean.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/lec4_annotated.pdf">PDF - 1.1 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Case Studies in Complex Controlled Release</h3>
+<p>Pulsatile Release from Programmed Eroding Systems</p>
+<p>Controlled Release Microchips</p>
+<p>Combining Drug Delivery with Tissue Engineering</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Hydrogels as Biomaterials</h3>
+<p>Hydrogel Structure and Physical Chemistry</p>
+<p>Methods of Polymerization</p>
+</td>
+<td>(<a href="4/lec6_clean.pdf">PDF - 2.0 MB</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Hydrogels as Biomaterials (cont.)</h3>
+<p>Theory of Hydrogel Swelling</p>
+<p>Physical Hydrogels</p>
+<ul>
+<li>Ionic and Hydrogen Bonding in Gels</li>
+<li>Association of Amphiphilic Block Copolymers</li>
+</ul>
+</td>
+<td>(<a href="4/lec7_clean.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/lec7_annotated.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Hydrogels as Biomaterials (cont.)</h3>
+<p>Polyelectrolyte Hydrogels</p>
+<p>Coacervates</p>
+<p>Polyelectrolyte Multi-layers</p>
+</td>
+<td>(<a href="4/lec8_clean.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/lec8_annotated.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Hydrogels as Biomaterials (cont.)</h3>
+<p>Theory of Polyelectrolyte Gel Swelling</p>
+</td>
+<td>(<a href="4/lec9_clean.pdf">PDF - 1.1 MB</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/lec9_annotated.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Hydrogels as Biomaterials (cont.)</h3>
+<p>Applications of Hydrogels: Molecular Imprinting</p>
+<p>Applications of Hydrogels: Glucose-sensitive Drug Delivery</p>
+<p>Kinetics of Drug Diffusion through Hydrogels</p>
+</td>
+<td>(<a href="4/lec10_clean.pdf">PDF - 1.1 MB</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/lec10_annotated.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Engineering Biological Recognition of Biomaterials</h3>
+<p>Biological Recognition in Vivo</p>
+<p>Protein-resistant and Cell-resistant Surfaces</p>
+<p>Engineering Recognition of Biomaterials: Adhesion and Migration</p>
+</td>
+<td>(<a href="4/lec11_clean.pdf">PDF - 2.3 MB</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/lec11_annotated.pdf">PDF - 1.8 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Engineering Biological Recognition of Biomaterials (cont.)</h3>
+<p>Enzymatic Recognition of Biomaterials</p>
+<p>Cytokine Signaling from Biomaterials</p>
+</td>
+<td>(<a href="4/lec12_clean.pdf">PDF - 1.8 MB</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/lec12_annotated.pdf">PDF - 2.0 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Engineering Biological Recognition of Biomaterials (cont.)</h3>
+<p>Mimicking Cell-cell Contacts with Surfaces</p>
+</td>
+<td>(<a href="4/lec13_clean.pdf">PDF - 2.9 MB</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/lec13_class.pdf">PDF - 3.4 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Bioceramics and Biocomposites</h3>
+<p>Introduction to Biological Approaches to Biomineralization</p>
+<p>Interfacial Biomineralization</p>
+</td>
+<td>(<a href="4/lec14_clean.pdf">PDF - 1.6 MB</a>)</td>
+<td>
+<p>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/lect14_class.pdf">PDF - 2.2 MB</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Bioceramics and Biocomposites (cont.)</h3>
+<p>Biological Control of Mineralization within Vesicles</p>
+<p>Biomimetic Syntheses: Microemulsion and Micellar Reactions Organic Templating of Inorganic Biomaterials: Natural and Synthetic Approaches</p>
+</td>
+<td>(<a href="4/lec15_clean.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/lect15_annotated.pdf">PDF - 1.7 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Bioceramics and Biocomposites (cont.)</h3>
+<p>Theory of Controlled Nucleation</p>
+<p>Bone Structure and Bone Biomimesis</p>
+<p>Biocomposites in Device Applications and Drug Delivery</p>
+</td>
+<td>(<a href="4/lect16_clean.pdf">PDF - 1.0 MB</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/lect16_annotated.pdf">PDF - 2.2 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Molecular Devices</h3>
+<p>Molecular Switches via Proteins and 'Smart' Polymers</p>
+<ul>
+<li>Temperature, pH, and Light-sensitive Switches</li>
+</ul>
+<p>Molecular Motors</p>
+<ul>
+<li>Kinesin-based Molecular Shuttles</li>
+<li>ATP Synthase-based Nano-rotors</li>
+</ul>
+</td>
+<td>(<a href="4/lect17_clean.pdf">PDF - 1.4 MB</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/lect17_class.pdf">PDF - 1.5 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Nanoparticle and Microparticle Biomolecule Drug Carriers</h3>
+<p>Pro-drugs, Micelles, Liposomes, Polymerosomes, Nanoparticles, and Microparticles</p>
+<p>Delivery of Drugs to Tissues via Systemic Circulation</p>
+<p>Materials for Anti-Cancer Drug Delivery</p>
+</td>
+<td>(<a href="4/lect18_clean.pdf">PDF - 4.1 MB</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/lect18_class.pdf">PDF - 4.6 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Nanoparticle and Microparticle Biomolecule Drug Carriers (cont.)</h3>
+<p>Barriers to Systemic / Oral Delivery and Delivery of Molecules to Tissues</p>
+<p>'Stealth' Particles</p>
+<ul>
+<li>Theory of Protein-resistant Particles</li>
+</ul>
+<p>Experimental Function of Long-circulating Carriers and PEGylated Compounds</p>
+</td>
+<td>(<a href="4/lect19_clean.pdf">PDF - 2.0 MB</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/lect19_class.pdf">PDF - 2.2 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>Focus Topic: Integrating Biological Knowledge Into Biomaterials Design For Vaccines</strong></td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Basic Biology of Vaccination and Viral Infections</h3>
+<p>Rudiments of Adaptive Immunity: The Basis of Vaccination</p>
+<p>Viral Infections</p>
+</td>
+<td>(<a href="4/lect20_clean.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/lect20_class.pdf">PDF - 1.3 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Basic Biology of Vaccination and Viral Infections (cont.)</h3>
+<p>Vaccination Against Viruses: Parallels between Immunization and Infection</p>
+</td>
+<td>(<a href="4/lect21_clean.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/lect21_class.pdf">PDF - 1.5 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Drug Targeting and Intracellular Drug Delivery for Vaccines</h3>
+<p>Targeting Nano-carriers and Micro-carriers to Specific Cell Types</p>
+<p>Chemistry of Antibodies for Targeting</p>
+<p>Pathways of Intracellular Transport</p>
+</td>
+<td>(<a href="4/lect22_clean.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/lect22_class.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Drug Targeting and Intracellular Drug Delivery for Vaccines (cont.)</h3>
+<p>Mechanisms of Intracellular Delivery</p>
+<p>Mimicking Viral Entry Strategies</p>
+</td>
+<td>(<a href="4/lect23_clean.pdf">PDF - 2.8 MB</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/lect23_class.pdf">PDF - 3.1 MB</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<h3 class="subsubhead">DNA Vaccines</h3>
+<p>Gene Therapy and DNA Immunization</p>
+<p>Mechanisms of DNA Vaccines</p>
+</td>
+<td>(<a href="4/lect24_clean.pdf">PDF - 4.1 MB</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/lect24_annotated.pdf">PDF - 4.7 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">DNA Vaccines (cont.)</h3>
+<p>Delivery Systems for DNA</p>
+<p>Systemic vs. Local Delivery</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="4/pset1.pdf">PDF</a>)</td>
+<td>(<a href="4/pset1_solns.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="4/pset2.pdf">PDF</a>)</td>
+<td>(<a href="4/pset2_solns.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<a href="4/pset3.pdf">PDF</a>)</td>
+<td>(<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/pset3_solns.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4 (<a href="4/pset4.pdf">PDF</a>)</td>
+<td>(<a href="4/pset4_solns.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 5 (<a href="4/pset5.pdf">PDF</a>)</td>
+<td>(<a href="4/pset5_solns.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+<h2 class="subhead">Exam 1</h2>
+<p>Problems (<a href="4/exam1.pdf">PDF</a>)</p>
+<p>Solutions (<a href="4/exam1_solns.pdf">PDF</a>)</p>
+<h2 class="subhead">Exam 2</h2>
+<p>Problem (<a href="4/exam2.pdf">PDF</a>)</p>
+<p>Bibliography (<a href="4/exam2_biblio.pdf">PDF</a>)</p>
+</br>
+
