@@ -5,7 +5,7 @@
 <li><a href="#course4">Systems Microbiology</a></li>
 <li><a href="#course5">Laboratory Fundamentals in Biological Engineering</a></li>
 <li><a href="#course6">Thermodynamics of Biomolecular Systems</a></li>
-<li><a href="#course7">Engineering of Nuclear Systems</a></li>
+<li><a href="#course7">Biological Engineering Programming</a></li>
 <li><a href="#course8">Introduction to Sustainable Energy</a></li>
 <li><a href="#course9">Nuclear Reactor Safety</a></li>
 <li><a href="#course10">Applied Nuclear Physics</a></li>
@@ -768,3 +768,68 @@
 </table>
 
 </br>
+<h2 id="course7">Biological Engineering Programming</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">REFERENCES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Biological Engineering and Programming DNA (<a href="20_180_introduct.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Genetic Devices and Device Modeling (<a href="20_180_devices.pdf">PDF</a>)</td>
+<td>Comic (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="aisb_vol1.pdf">PDF - 1.5 MB</a>)<br /><br />First Order Decay (<a href="firstorderdecay.pdf">PDF</a>)<br /><br />Second Order Binding (<a href="sec_orderbinding.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SUPPLEMENTAL&nbsp;FILES</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Assignment 1 (<a href="1/180assignment1.pdf">PDF</a>)</td>
+<td>Additional Information (<a href="1/asg1_add_info.pdf">PDF</a>)<br /><br />Parts.txt (<a href="1/Parts.txt">TXT</a>)</td>
+<td>Solutions and Comments (<a href="1/asg1_sol_comts.pdf">PDF</a>)<br /><br />Code (Q1q2code.txt) (<a href="1/Q1q2code.txt">TXT</a>)<br /><br />Test file (Q1tester.txt) (<a href="1/Q1tester.txt">TXT</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Assignment 2 (<a href="1/180assignment2.pdf">PDF</a>)</td>
+<td>Additional Information (<a href="1/asg2_add_info.pdf">PDF</a>)<br /><br />parts.dict (<a href="1/parts.dict">DICT</a>)<br /><br />map.dict (<a href="1/map.dict">DICT</a>)</td>
+<td>Code (Pset2code.txt) (<a href="1/Pset2code.txt">TXT</a>)</td>
+</tr>
+<tr class="row">
+<td>Assignment 3 (<a href="1/psetfour_final.pdf">PDF</a>)</td>
+<td>Additional Information (<a href="1/asg3_add_info.pdf">PDF</a>)<br /><br />GeneticCode.dict (<a href="1/GeneticCode.dict">DICT</a>)<br /><br />Protein.txt (<a href="1/Protein.txt">TXT</a>)<br /><br />NC_003418.txt (<a href="1/NC_003418.txt">TXT</a>)</td>
+<td>Solutions (<a href="1/asg3_solution.pdf">PDF</a>)<br /><br />Code (Spencers_4.txt) (<a href="1/Spencers_4.txt">TXT</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Assignment 4&nbsp;<span class="nobr">(<a href="1/twenty180hw5.pdf">PDF - 3.0 MB</a>)</span></td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 class="subhead">Exam 1</h2>
+<p>Exam 1 Solutions (<a href="1/exam1.pdf">PDF</a>)</p>
+<h2 class="subhead">Exam 2</h2>
+<p>Exam 2 Review Questions (<a href="1/exam2review_ques.pdf">PDF</a>)</p>
+<p>Exam 2 Solutions (<a href="1/exam2_key.pdf">PDF</a>)</p>
+</br>
+
+
+
+
