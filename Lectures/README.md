@@ -2023,7 +2023,7 @@
 <td>Network Statistics, Chromatin Structure, Heritability, Association Testing</td>
 <td>
 <p><a href="3/MIT7_91JS14_pset5_ques.pdf">Problem Set 5 (PDF - 1.1MB)</a></p>
-<p>Problem Set 5 Files (ZIP)</p>
+
 </td>
 <td><a href="3/MIT7_91JS14_pset5_ans.pdf">Solutions to Problem Set 5 (PDF)</a></td>
 </tr>
