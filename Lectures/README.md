@@ -644,7 +644,7 @@
 <tr class="row">
 <td>3</td>
 <td>
-<p><a href="mod3">Biomaterials engineering oral presentation</a></p>
+<p>Biomaterials engineering oral presentation</p>
 </td>
 <td>
 <h3 class="subsubhead">From Atissa Banuazizi</h3>
