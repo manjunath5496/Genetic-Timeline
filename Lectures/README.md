@@ -14,7 +14,7 @@
 <li><a href="#course13">Materials for Biomedical Applications</a></li>
 <li><a href="#course14">Molecular Structure of Biological Materials</a></li>
 <li><a href="#course15">Quantitative Physiology: Organ Transport Systems</a></li>
-<li><a href="#course16">Thermal Hydraulics in Power Technology</a></li>
+<li><a href="#course16">Biological Engineering Design</a></li>
 <li><a href="#course17">Structural Mechanics in Nuclear Power Technology</a></li>
 <li><a href="#course18">Probability And Its Applications To Reliability, Quality Control, And Risk Assessment</a></li>
 <li><a href="#course19">Integration of Reactor Design, Operations, and Safety</a></li>
@@ -1825,6 +1825,67 @@
 <tr class="row">
 <td headers="col1">Exam 3 (<a href="3/quiz3.pdf">PDF</a>)</td>
 <td headers="col2">(<a href="3/quiz3_solutions.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course16">Biological Engineering Design</h2>
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction to the course</td>
+<td><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT20_380JS10_lec01_intro.pdf">PDF - 2.3MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Background: Inflammation in healthy immune response</td>
+<td><span class="nobr">(<a href="3/MIT20_380JS10_lec01_di.pdf">PDF - 1.2MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Background: Inflammation and cancer</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Background: Inflammation in obesity and diabetes</td>
+<td><span class="nobr">(<a href="3/MIT20_380JS10_lec03_fw.pdf">PDF - 5.0MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Background: Inflammation in cardiovascular disease</td>
+<td><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT20_380JS10_lec04_je.pdf">PDF - 8.3MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Technical paper presentations</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Workshop: Patents</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Workshop: Regulatory agencies and clinical trials</td>
+<td><span class="nobr">(<a href="3/MIT20_380JS10_lec15_je.pdf">PDF - 1.3MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Workshop: Signaling networks</td>
+<td><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT20_380JS10_wk17_fw.pdf">PDF - 2.0MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Communications Review 2</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Workshop: Drug targeting</td>
+<td><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT20_380JS10_wk18_di_trgt.pdf">PDF - 2.0MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Workshop: Drug carriers</td>
+<td><span class="nobr">(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT20_380JS10_wk18_fw_care.pdf">PDF - 1.9MB</a>)</span></td>
 </tr>
 </tbody>
 </table>
