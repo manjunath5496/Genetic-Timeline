@@ -10,7 +10,7 @@
 <li><a href="#course9">Mechanisms of Drug Actions</a></li>
 <li><a href="#course10">Molecular, Cellular, and Tissue Biomechanics</a></li>
 <li><a href="#course11">Analysis of Biomolecular and Cellular Systems</a></li>
-<li><a href="#course12">Electromagnetic Interactions</a></li>
+<li><a href="#course12">Fields, Forces and Flows in Biological Systems</a></li>
 <li><a href="#course13">Neutron Interactions and Applications</a></li>
 <li><a href="#course14">Materials in Nuclear Engineering</a></li>
 <li><a href="#course15">Engineering of Nuclear Reactors</a></li>
@@ -1463,6 +1463,79 @@
 </tr>
 <tr class="row">
 <td><a href="1/MIT20_320F12_2010Exam2.pdf">Exam 2 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course12">Fields, Forces and Flows in Biological Systems</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><strong>Part 1: Fluids (Instructor: Prof. Scott Manalis)</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Introduction to the course</p>
+<p>Fluid 1: Introduction to fluid flow (<a href="1/lec1.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Part 2: Fields (Instructor: Prof. Jongyoon Han)</strong></td>
+</tr>
+<tr class="row">
+<td>Field 1: Introduction to EM theory (<a href="1/fields_lec1_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Field 2: Maxwell's equations (<a href="1/fields_lec1_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Quiz 1</td>
+</tr>
+<tr class="alt-row">
+<td>Field 3: EM field for biosystems (<a href="1/fields_lec3_4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Field 4: EM field in aqueous media (<a href="1/fields_lec3_4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Field 5: Debye layer (<a href="1/fields_lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Field 6: Quasielectrostatics 2 (<a href="1/fields_lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Field 7: Laplace's equation 1 (<a href="1/fields_lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Field 8: Laplace's equation 2 (<a href="1/fields_lec8.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Field 9: Laplace's equation 3 (<a href="1/fields_lec9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Part 4: Electrokinetics (Instructor: Prof. Jongyoon Han)</strong></td>
+</tr>
+<tr class="alt-row">
+<td>EK2: Electroosmosis 1 (<a href="1/electrokin_lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>EK3: Electroosmosis 2 (<a href="1/electrokin_lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>EK5: Electrophoresis 2 (<a href="1/electrokin_lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>EK6: Dielectrophoresis (<a href="1/electrokin_lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>EK7: DLVO (<a href="1/electrokin_lec7.pdf">PDF</a>)</td>
 </tr>
 </tbody>
 </table>
