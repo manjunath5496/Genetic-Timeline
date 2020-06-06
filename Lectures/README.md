@@ -19,7 +19,7 @@
 <li><a href="#course18">Cell-Matrix Mechanics</a></li>
 <li><a href="#course19">Analysis of Biological Networks</a></li>
 <li><a href="#course20">Biomaterials-Tissue Interactions</a></li>
-<li><a href="#course21">Quantum Theory of Radiation Interactions</a></li>
+<li><a href="#course21">Molecular and Cellular Pathophysiology </a></li>
 <li><a href="#course22">Principles of Radiation Interactions</a></li>
 <li><a href="#course23">Magnetic Resonance Analytic, Biochemical, and Imaging Techniques</a></li>
 <li><a href="#course24">Introduction to Plasma Physics I</a></li>
@@ -2271,4 +2271,80 @@
 </tbody>
 </table>
 </br>
+<h2 id="course21">Molecular and Cellular Pathophysiology </h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="tbl325id0_1" scope="col">TOPICS</th>
+<th id="tbl325id0_3" scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl325id0_1">Introduction to 20.450 and HCC</td>
+<td headers="tbl325id0_3">&nbsp;</td>
+</tr>
+<tr>
+<td headers="tbl325id0_1">Cellular Pathology</td>
+<td headers="tbl325id0_3">
+<p>Cellular Adaptations, Cell Injury, and Cell Death (<a href="3/cell_adapt.pdf">PDF</a>)</p>
+<p>Liver Regeneration (<a href="3/liver_regen.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl325id0_1">Inflammation</td>
+<td headers="tbl325id0_3">Inflammation (<a href="3/inflammation.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl325id0_1">Liver Anatomy and Histology</td>
+<td headers="tbl325id0_3">Liver Anatomy and Histology (<a href="3/liver_anat.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl325id0_1">Immunity</td>
+<td headers="tbl325id0_3">
+<p>Immunity (<a href="3/immunity.pdf">PDF</a>)</p>
+<p>Hepatitis Virus Immunity (<a href="3/hepat_virus_immu.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl325id0_1">Neoplasia</td>
+<td headers="tbl325id0_3">Neoplasia (<a href="3/neoplasia.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl325id0_1">Neoplasia (cont.)</td>
+<td headers="tbl325id0_3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl325id0_1">Infectious Diseases</td>
+<td headers="tbl325id0_3">
+<p>Infectious Diseases (<a href="3/infect_disease.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl325id0_1">Liver and Biliary</td>
+<td headers="tbl325id0_3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl325id0_1">Hepatocarcinogenesis</td>
+<td headers="tbl325id0_3">Hepatocarcinogenesis: Chemical Models (<a href="3/chemical_models.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl325id0_1">Animal Models</td>
+<td headers="tbl325id0_3">
+<p>Chronic Viral Hepatitis: Human Disease and Animal Models (<a href="3/viral_hep.pdf">PDF</a>)</p>
+<p>Sexual Dimorphism in the Liver (<a href="3/dimorphism.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl325id0_1">Special Topic</td>
+<td headers="tbl325id0_3">Strategies for Prevention of HCC (<a href="3/hcc_prevention.pdf">PDF</a>)&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
 
