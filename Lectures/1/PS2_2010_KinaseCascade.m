@@ -1,0 +1,61 @@
+%KinaseCascade function: will use to return ERK, MEK, and RAF values
+
+%E1 = Ras-GTP
+%E2 = RAF Phosphatase
+%cx = complex
+%P = phosphate (PO4)
+%PP = two phosphates
+%* = activated
+%Pase = phosphatase enzyme (so MEKPase is MEK phosphatase)
+
+function myfun = KinaseCascade(t,y,Km,Vmax)
+% y1 = dE2dt
+% y2 = dE1dt
+% y3 = dERKdt
+% y4 = dERKPdt
+% y5 = dERKPPdt
+% y6 = dMEKdt
+% y7 = dMEKPdt
+% y8 = dMEKPPdt
+% y9 = dRAFdt
+% y10 = dRAF*dt
+% y11 = dMEKPasedt
+% y12 = dMEKPase1dt
+% y13 = dERKPasedt
+% y14 = dERKPase1dt
+% y15 = dE2_cxdt
+% y16 = dE1_cxdt
+% y17 = dMEKPP_cxdt
+% y18 = dMEKPP.MEKPP1_cxdt
+% y19 = dRAF*_cxdt
+% y20 = dRAF*.RAF*_cxdt
+% y21 = dMEKPase_cxdt
+% y22 = dMEKPase1.MEKPase_cxdt
+% y23 = dERKPase_cxdt
+% y24 = dERKPase1.ERKPase_cxdt
+
+myfun(1,:) = - 1000 * y(10) * y(1)+ Km * y(15);
+myfun(2,:) = - 1000 * y(9) * y(2)+ Km * y(16);
+myfun(3,:) = - 1000 * y(3)* y(8)+ Vmax * y(17)+ Vmax * y(23);
+myfun(4,:) = - 1000 * y(4)* y(8)+ Vmax * y(18)- 1000 * y(4)* y(13)+ Vmax * y(23)+ Vmax * y(17)+ Vmax * y(24);
+myfun(5,:) = - 1000 * y(5)* y(14)+ Vmax * y(24)+ Vmax * y(18);
+myfun(6,:) = - 1000 * y(6)* y(10)+ Vmax * y(19)+ Vmax * y(21);
+myfun(7,:) = - 1000 * y(7)* y(10)+ Vmax * y(20)- 1000 * y(7)* y(11)+ Vmax * y(21)+ Vmax * y(19)+ Vmax * y(22);
+myfun(8,:) = - 1000 * y(8)* y(12)+ Vmax * y(22)+ Vmax * y(20)- 1000 * y(3) * y(8)+ Km * y(17)- 1000 * y(4) * y(8)+ Km * y(18);
+myfun(9,:) = - 1000 * y(9)* y(2)+ Vmax * y(16)+ Vmax * y(15);
+myfun(10,:) = - 1000 * y(10)* y(1)+ Vmax * y(15)+ Vmax * y(16)- 1000 * y(6) * y(10)+ Km * y(19)- 1000 * y(7) * y(10)+ Km * y(20);
+myfun(11,:) = - 1000 * y(7) * y(11)+ Km * y(21);
+myfun(12,:) = - 1000 * y(8) * y(12)+ Km * y(22);
+myfun(13,:) = - 1000 * y(4) * y(13)+ Km * y(23);
+myfun(14,:) = - 1000 * y(5) * y(14)+ Km * y(24);
+myfun(15,:) = 1000 * y(10) * y(1)- Km * y(15);
+myfun(16,:) = 1000 * y(9) * y(2)- Km * y(16);
+myfun(17,:) = 1000 * y(3) * y(8)- Km * y(17);
+myfun(18,:) = 1000 * y(4) * y(8)- Km * y(18);
+myfun(19,:) = 1000 * y(6) * y(10)- Km * y(19);
+myfun(20,:) = 1000 * y(7) * y(10)- Km * y(20);
+myfun(21,:) = 1000 * y(7) * y(11)- Km * y(21);
+myfun(22,:) = 1000 * y(8) * y(12)- Km * y(22);
+myfun(23,:) = 1000 * y(4) * y(13)- Km * y(23);
+myfun(24,:) = 1000 * y(5) * y(14)- Km * y(24);
+
