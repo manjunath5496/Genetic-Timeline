@@ -4,7 +4,7 @@
 <li><a href="#course3">Chemicals in the Environment: Toxicology and Public Health</a></li>
 <li><a href="#course4">Systems Microbiology</a></li>
 <li><a href="#course5">Laboratory Fundamentals in Biological Engineering</a></li>
-<li><a href="#course6">Principles of Medical Imaging</a></li>
+<li><a href="#course6">Thermodynamics of Biomolecular Systems</a></li>
 <li><a href="#course7">Engineering of Nuclear Systems</a></li>
 <li><a href="#course8">Introduction to Sustainable Energy</a></li>
 <li><a href="#course9">Nuclear Reactor Safety</a></li>
@@ -654,4 +654,117 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course6">Thermodynamics of Biomolecular Systems</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr style="height: 13px;">
+<th style="height: 13px;" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row" style="height: 15px;">
+<td style="height: 15px;">Introduction to Thermo; 0<sup>th</sup>&nbsp;Law; Temperature; Work; Heat (<a href="l01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 15px;">
+<td style="height: 15px;">State Functions, 1<sup>st</sup>&nbsp;Law, Paths (<a href="l02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Joule and Joule-Thompson; Heat Capacity (<a href="l03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Reversible and Irreversible Processes (<a href="l04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Thermochemistry (<a href="l05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 15px;">
+<td style="height: 15px;">2<sup>nd</sup>&nbsp;Law; Entropy (Boltzmann and Clausius) (<a href="l06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">&Delta;S for Reversible and Irreversible Processes (<a href="l07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Equilibrium; Maxwell Relations; Free Energy (<a href="l08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Chemical Potential; Phase Equilibrium (<a href="l09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Chemical Equilibrium; Equilibrium Constant (<a href="l10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Standard States; Gibbs-Duhem (<a href="l11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 15px;">
+<td style="height: 15px;">&Delta;G<sup>0</sup>= -RTlnK; Example (<a href="l12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Hour Exam 1</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Boltzmann Distribution (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l13.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Thermo and Boltzmann Distribution (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l14.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Occupation of States (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l15.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Third Law (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l16.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Phase Equilibria, Single Component (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l17.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Phase Equilibria II; Clausius Clapeyron (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l18.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Regular Solutions; Mixing Energy; Mean Fields</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Nonideal Solutions</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Solvation; Colligative Properties (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l21.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Hour Exam 2</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Osmotic Pressure and Phase Partitioning (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Surface Tension (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Polymer 1 - Freely Jointed Chain (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Polymer 2 - Chain Conformation (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Polymer 3 - Rubber Elasticity (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l26.pdf">PDF - 2.2 MB</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Electrolyte Solutions (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l27.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Electrolytes at Interfaces; Debye Length (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l28.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Titration of Polyelectrolytes (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l29.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Thermodynamics of DNA Hybridization (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l30.pdf">PDF - 1.5 MB</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Cooperativity (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l31.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
 </br>
