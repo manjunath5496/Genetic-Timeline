@@ -18,7 +18,7 @@
 <li><a href="#course17">Foundations of Computational and Systems Biology</a></li>
 <li><a href="#course18">Cell-Matrix Mechanics</a></li>
 <li><a href="#course19">Analysis of Biological Networks</a></li>
-<li><a href="#course20">Fundamentals of Advanced Energy Conversion</a></li>
+<li><a href="#course20">Biomaterials-Tissue Interactions</a></li>
 <li><a href="#course21">Quantum Theory of Radiation Interactions</a></li>
 <li><a href="#course22">Principles of Radiation Interactions</a></li>
 <li><a href="#course23">Magnetic Resonance Analytic, Biochemical, and Imaging Techniques</a></li>
@@ -2123,6 +2123,153 @@
 <p>The Che System</p>
 <p>Receptor Methylation as a Mechanism of Control of Chemotaxis</p>
 </td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<h2 id="course20">Biomaterials-Tissue Interactions</h2>
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;SLIDES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>I. Tissue environment of the implanted biomaterial: unit cell processes</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Survey of clinical cases of biomaterials-tissue interactions</td>
+<td>
+<p>(<a href="3/MIT20_441JF09_lec01_ms.pdf">PDF - 9.4MB</a>)</p>
+<p>(<a href="3/MIT20_441JF09_lec01_iy.pdf">PDF - 4.2MB</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Tissue structures and unit cell processes</p>
+<p>Integrins and adhesion proteins</p>
+</td>
+<td>
+<p>(<a href="3/MIT20_441JF09_lec02a_ms.pdf">PDF - 1.2MB</a>)</p>
+<p>(<a href="3/MIT20_441JF09_lec02b_ms.pdf">PDF - 3.0MB</a>)</p>
+<p>(<a href="3/MIT20_441JF09_lec02c_ms.pdf">PDF</a>)</p>
+<p>(<a href="3/MIT20_441JF09_lec02d_ms.pdf">PDF - 3.2MB</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Unit cell processes comprising the healing response</td>
+<td>
+<p>(<a href="3/MIT20_441JF09_lec03a_ms.pdf">PDF - 4.0MB</a>)</p>
+<p>(<a href="3/MIT20_441JF09_lec03b_ms.pdf">PDF - 4.3MB</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Unit cell processes underlying tissue engineering</td>
+<td>
+<p>(<a href="3/MIT20_441JF09_lec04_ms.pdf">PDF - 7.5MB</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Structure and function of naturally occurring ECMs</td>
+<td>
+<p>(<a href="3/MIT20_441JF09_lec05a_iy.pdf">PDF</a>)</p>
+<p>(<a href="3/MIT20_441JF09_lec05b_iy.pdf">PDF</a>)&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td>ECM does not regenerate spontaneously</td>
+<td>(<a href="3/MIT20_441JF09_lec06_iy.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Quiz 1</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>II. Cell-surface interactions</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Analysis of surfaces of biomaterials and protein adsorption</td>
+<td>(<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="3/MIT20_441JF09_lec08_ms.pdf">PDF - 1.7MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Phenotype changes following adhesion on biomaterials</td>
+<td>(<a href="3/MIT20_441JF09_lec09_iy.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Structural determinants of biologically active materials</td>
+<td>(<a href="3/MIT20_441JF09_lec10_iy.pdf">PDF - 2.2MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Methodology for cell-surface interactions</td>
+<td>(<a href="3/MIT20_441JF09_lec11_iy.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Cell-scaffold interactions during regeneration</td>
+<td>(<a href="3/MIT20_441JF09_lec12_iy.pdf">PDF - 3.8MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Noncooperative cell-surface interactions</td>
+<td>(<a href="3/MIT20_441JF09_lec13_iy.pdf">PDF - 3.7MB</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>From randomness to cooperativity</td>
+<td>(<a href="3/MIT20_441JF09_lec14_iy.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Quiz 2</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>III.&nbsp;<em>In vivo</em>&nbsp;and clinical case studies</strong></td>
+</tr>
+<tr class="row">
+<td>Tissue response to implants; biocompatibility</td>
+<td>(<a href="3/MIT20_441JF09_lec16_ms.pdf">PDF - 6.1MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Epithelialization (epidermal regeneration) and endothelialization of vascular prostheses</td>
+<td>
+<p>(<a href="3/MIT20_441JF09_lec17a_ms.pdf">PDF - 1.2MB</a>)</p>
+<p>(<a href="3/MIT20_441JF09_lec17b_ms.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td><em>In vivo</em>&nbsp;synthesis of skin</td>
+<td>
+<p>(<a href="3/MIT20_441JF09_lec18a_iy.pdf">PDF - 1.7MB</a>)</p>
+<p>(<a href="3/MIT20_441JF09_lec18b_iy.pdf">PDF</a>)&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><em>In vivo</em>&nbsp;synthesis of peripheral nerve</td>
+<td>(<a href="3/MIT20_441JF09_lec19_iy.pdf">PDF - 3.9MB</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Rules for synthesis of tissues and organs</td>
+<td>(<a href="3/MIT20_441JF09_lec20_iy.pdf">PDF - 2.8MB</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Joints and dental tissues: prosthetic replacement</td>
+<td>
+<p>(<a href="3/MIT20_441JF09_lec21a_ms.pdf">PDF - 7.7MB</a>)</p>
+<p>(<a href="3/MIT20_441JF09_lec21b_ms.pdf">PDF - 9.9MB</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Implants for bone regeneration</td>
+<td>(<a href="3/MIT20_441JF09_lec22_ms.pdf">PDF - 4.0MB</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Regeneration of soft musculoskeletal tissues</td>
+<td>File not available</td>
+</tr>
+<tr class="row">
+<td>Biomaterial applications in the heart and other organs</td>
+<td>(<a href="3/MIT20_441JF09_lec24_ms.pdf">PDF - 3.7MB</a>)</td>
 </tr>
 </tbody>
 </table>
