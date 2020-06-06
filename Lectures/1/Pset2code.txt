@@ -1,0 +1,86 @@
+def getGCcontent1(dict):
+   li=[]
+   for i in dict.keys():
+      GC=(dict[i].count("g") + dict[i].count("c")) / float(len(dict[i]))
+      li.append(GC)
+   return li
+   
+
+def getLowestGC(inverters, GClist):          
+   lowest=[]
+   GClist.sort()
+   for i in inverters:
+      if GClist[0]==i.getGCcontent2():
+         lowest.append( i.getName() )
+   return lowest
+
+
+class Inverter:
+         
+   def __init__(self, thisRBS, thisORF, thisTerminator, thisPromoter): 
+      self.RBS=thisRBS
+      self.ORF=thisORF
+      self.terminator=thisTerminator
+      self.promoter=thisPromoter
+
+   def getName(self):   
+      return self.RBS[0] + "." + self.ORF[0] + "." + self.terminator[0] + "." + self.promoter[0]
+
+   def getSeq(self):
+      return self.RBS[1] + self.ORF[1] + self.terminator[1] + self.promoter[1]
+
+   def getGCcontent2(self):
+      x=self.getSeq()
+      return (x.count("g") + x.count("c")) / float(len(x))
+
+   def getORFLength(self):
+      return len(self.ORF[1])
+         
+
+#---------------- MAIN PROGRAM --------------------
+
+   
+myDict=eval(open("parts.dict").read())
+map=eval(open("map.dict").read())
+         
+RBSKeys=myDict["RBSDict"].keys()
+ORFKeys=myDict["ORFDict"].keys()
+terminatorKeys=myDict["terminatorDict"].keys()
+promoterKeys=myDict["promoterDict"].keys()
+      
+invertersDict={}
+
+for p in promoterKeys:
+   for o in ORFKeys:
+      if p==map[o]:
+         for t in terminatorKeys:
+            for r in RBSKeys:
+               x=myDict["RBSDict"][r]+myDict["ORFDict"][o]+myDict["terminatorDict"][t]+myDict["promoterDict"][p]
+               y=r+"."+o+"."+t+"."+p
+               invertersDict[y]=x      
+
+GClist1=getGCcontent1(invertersDict)
+
+inverters=[]
+for p in promoterKeys:
+   for o in ORFKeys:
+      if p==map[o]: 
+         for t in terminatorKeys:
+            for r in RBSKeys:
+               inv=Inverter([r,myDict["RBSDict"][r]],[o,myDict["ORFDict"][o]],[t,myDict["terminatorDict"][t]],[p,myDict["promoterDict"][p]])
+               inverters.append(inv)    
+      
+nameList=[]
+seqList=[]
+for i in inverters:
+   nameList.append(i.getName())
+   seqList.append(i.getSeq())
+
+GClist2=[]
+for i in inverters:
+   GClist2.append( i.getGCcontent2() )
+
+lowestGC=getLowestGC(inverters, GClist2)          
+print "The inverter with the lowest GC content is ", lowestGC
+
+

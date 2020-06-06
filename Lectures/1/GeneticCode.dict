@@ -1,0 +1,23 @@
+{
+'F': ['UUU', 'UUC'], 
+'L': ['UUA', 'UUG', 'CUU', 'CUC', 'CUA', 'CUG'],
+'I': ['AUU', 'AUC', 'AUA'],
+'M': ['AUG'],
+'V': ['GUU', 'GUC', 'GUA', 'GUG'],
+'S': ['UCU', 'UCC', 'UCA', 'UCG', 'AGU', 'AGC'],
+'P': ['CCU', 'CCA', 'CCG', 'CCC'],
+'T': ['ACA', 'ACG', 'ACC', 'ACU'],
+'A': ['GCA', 'GCC', 'GCG', 'GCU'],
+'Y': ['UAU', 'UAC'],
+'H': ['CAU', 'CAC'],
+'Q': ['CAA', 'CAG'],
+'N': ['AAU', 'AAC'],
+'K': ['AAA', 'AAG'],
+'D': ['GAU', 'GAC'],
+'E': ['GAA', 'GAG'],
+'C': ['UGU', 'UGC'],
+'W': ['UGG'],
+'R': ['CGA', 'CGC', 'CGG', 'CGU', 'AGA', 'AGG'],
+'G': ['GGA', 'GGC', 'GGG', 'GGU'],
+'STOP': ['UGA', 'UAA', 'UAG']
+}

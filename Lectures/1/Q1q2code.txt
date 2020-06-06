@@ -1,0 +1,58 @@
+
+###Question 1
+
+readfile = open("Parts.txt", "r")
+writefile1 = open("output1.txt", "w")
+writefile2 = open("output2.txt", "w")
+
+contents = readfile.readlines() 
+
+dict={}
+
+i=0
+while i< len(contents):
+   key= contents[i].strip()
+   val= contents[i+1].strip()   
+   dict[key]=val
+   i=i+2
+
+seq=dict["promoter"]+dict["RBS"]+dict["ORF"]+dict["terminator"]+dict["barcode"]
+print seq
+writefile1.write(seq)   
+   
+
+
+###Question 2
+
+
+
+truncSeq=seq
+
+while truncSeq.find("atg") != -1:  
+   locATG=truncSeq.find("atg")
+   tempSeq=truncSeq[ locATG:len(truncSeq) ]  #we make tempSeq to avoid finding a TAA upstream of the ATG
+
+   locTAA=tempSeq.find("taa")
+   y=tempSeq.find("taa") 
+
+   while y != -1:
+      l=locTAA+3 - 0  #locATG should now be considered to be 0 since we are truncating the sequence by putting ATG first!
+      x=divmod(locTAA-0,3)
+      if (l>=50 and x[1]==0):
+         orf=tempSeq[0:locTAA+3]  #+3 to include TAA (python doesn't include the last index on the right side of the colon)
+         #start=seq.find(orf)      #find where in seq the orf begins
+         print >> writefile2, orf
+         y=-1
+      elif (l<50 and x[1]==0):    #there is an in frame TAA less than 50 away.  the biology will stop tranlation here
+         y=-1                     # so we will look for the next ATG 
+      else:                       #the TAA is not in frame and we need to find the next TAA
+         locTAA=tempSeq.find("taa", locTAA+1)  #will find next location of TAA
+         if locTAA==-1:           #if there are no more TAA's, find the next ATG
+            y=-1         
+ 
+   truncSeq=tempSeq[3:len(tempSeq)]
+
+
+readfile.close()
+writefile1.close()
+writefile2.close()

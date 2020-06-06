@@ -1,0 +1,10 @@
+RBS
+RBS
+barcode
+barcode
+ORF
+ORF
+terminator
+terminator
+promoter
+promoter

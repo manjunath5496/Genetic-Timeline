@@ -1,0 +1,150 @@
+###########################question 1
+
+codeDict=eval(open("GeneticCode.dict").read())
+
+readfile = open("Protein.txt", "r")
+contents = readfile.readlines()
+protein=contents[0].strip()
+
+RT=""
+
+
+for i in protein:
+   list=codeDict[i]
+
+   first=[]
+   second=[]
+   third=[]
+   a=0
+   c=0
+   g=0
+   u=0
+
+   for j in range(0, len(list)):
+
+      first.append(list[j][0])
+      second.append(list[j][1])
+      third.append(list[j][2])
+
+
+   FST=[first, second, third]
+
+   for j in FST:
+      a=j.count("A")
+      c=j.count("C")
+      g=j.count("G")
+      u=j.count("U")
+      numBases=[a,c,g,u]
+      letters=["A","C","G","U"]
+
+      x=0
+      for i in range(0,4):
+         if numBases[i]==len(first):   #bc len(first)=len(second)=len(third)
+            RT=RT+letters[i]
+            x=42
+
+      if x==0:
+         if (c+u)==len(first):
+            RT=RT+"Y"
+         elif (g+a)==len(first):
+            RT=RT+"R"
+         elif (u+c+a)==len(first):
+            RT=RT+"H"
+         else:
+            RT=RT+"N"
+
+
+###################question 2
+
+
+def createMers():
+   bp=["A","C","G","T"]
+   thisMer=""
+   mers=[]
+   for a in bp:
+       for b in bp:
+          for c in bp:
+             for d in bp:
+                for e in bp:
+                   for f in bp:
+                      for g in bp:
+                         for h in bp:
+                            thisMer=a+b+c+d+e+f+g+h
+                            mers.append(thisMer)
+                            thisMer=""
+
+   return  mers
+
+
+def createMersRec(length):
+   baseList=["A","C","G","T"]
+   merList=[]
+
+   if length==1:
+      for base in baseList:
+         merList.append(base)
+   else:
+      for base in baseList:
+         for mer in createMersRec(length-1):
+            merList.append(mer+base)
+
+   return merList
+
+
+def scoreMer(mer1,mer2):   #we assume that mer1 and mer2 are the same len, here$
+   score=0
+   for i in range(0,len(mer1)):
+      if mer1[i]==mer2[i]:
+         score=score+1           #this adds up the num of exact matches
+   return score               #this is a number between 0 and 8
+
+
+print RT
+
+
+##################MAIN#######################
+
+readfile = open("NC_003418.txt", "r")
+contents = readfile.readlines()
+genome=contents[0].strip()
+
+
+lenMer=8
+   
+#merList=createMers()
+merListRec=createMersRec(lenMer)
+
+listOfScoresForThisMer=[]
+   
+bestScore=lenMer
+listOfBestMers=[]
+      
+x=0
+   
+for thisMer in merListRec: 
+         
+   for i in range(0,len(genome)-lenMer+1):
+      genomeMer=genome[i:i+lenMer]
+      score=scoreMer(genomeMer, thisMer)   #thisMer is the outerloop counter
+      if score>bestScore:
+         x=1
+         break
+      listOfScoresForThisMer.append(score)
+   
+      
+   if x != 1:
+      if max(listOfScoresForThisMer) < bestScore:
+         listOfBestMers=[]                           #set this list to empty
+         bestScore=max(listOfScoresForThisMer)
+         listOfBestMers.append(thisMer)
+      elif max(listOfScoresForThisMer) == bestScore:
+         listOfBestMers.append(thisMer)
+
+   x=0  
+
+   listOfScoresForThisMer=[]               #set this to empty for the next mer
+
+
+
+print bestScore, listOfBestMers
+
