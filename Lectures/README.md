@@ -17,7 +17,7 @@
 <li><a href="#course16">Biological Engineering Design</a></li>
 <li><a href="#course17">Foundations of Computational and Systems Biology</a></li>
 <li><a href="#course18">Cell-Matrix Mechanics</a></li>
-<li><a href="#course19">Integration of Reactor Design, Operations, and Safety</a></li>
+<li><a href="#course19">Analysis of Biological Networks</a></li>
 <li><a href="#course20">Fundamentals of Advanced Energy Conversion</a></li>
 <li><a href="#course21">Quantum Theory of Radiation Interactions</a></li>
 <li><a href="#course22">Principles of Radiation Interactions</a></li>
@@ -2072,8 +2072,59 @@
 </tr>
 </tbody>
 </table>
-
-
-
-
+</br>
+<h2 id="course19">Analysis of Biological Networks</h2>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">&nbsp;</th>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="alt-row">
+<td>&nbsp;</td>
+<td>
+<p>Information flow in the reverse direction - from DNA to RNA to protein (the central dogma)</p>
+<p>Review of regulatory circuits and introduction to the concept of evolutionary genomics (<a href="3/be_440_sep_10_04.pdf">PDF</a>)</p>
+<p>Key Issues: DNA replication and repair errors lead to mutations. Loss of mismatch repair leads to a hyper-Rec phenotype, which facilitates horizontal gene transfer (antibiotic resistance, etc.)</p>
+</td>
+</tr>
+<tr class="row">
+<td>&nbsp;</td>
+<td>Decoding Information I (Transcription Regulation) (<a href="3/BE440SEPT152004x.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>&nbsp;</td>
+<td>Decoding Information II (Translation) (<a href="3/BE440SEPT222004x.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>&nbsp;</td>
+<td>Analysis of the Interferon Network (The JAK/STAT system) (<a href="3/notes20041008.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>&nbsp;</td>
+<td>Analysis of the Interferon Network (<a href="3/BE440OCT132004x.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="row">
+<td>&nbsp;</td>
+<td>Analysis of the Interferon Network (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td>&nbsp;</td>
+<td>Analysis of the Interferon Network (cont.) (<a href="3/be_440_oct_20_04.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>&nbsp;</td>
+<td>
+<p>Chemotaxis I - How Salvage Pathways Supplement Core Biochemical Pathways (<a href="3/BE440OCT272004.pdf">PDF</a>)</p>
+<p>The Che System</p>
+<p>Receptor Methylation as a Mechanism of Control of Chemotaxis</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
 
