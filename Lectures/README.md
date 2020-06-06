@@ -21,7 +21,7 @@
 <li><a href="#course20">Biomaterials-Tissue Interactions</a></li>
 <li><a href="#course21">Molecular and Cellular Pathophysiology </a></li>
 <li><a href="#course22">Design of Medical Devices and Implants</a></li>
-<li><a href="#course23">Magnetic Resonance Analytic, Biochemical, and Imaging Techniques</a></li>
+<li><a href="#course23">Biomedical Information Technology</a></li>
 <li><a href="#course24">Introduction to Plasma Physics I</a></li>
 <li><a href="#course25">MHD Theory of Fusion Systems</a></li>
 <li><a href="#course26">Plasma Transport Theory</a></li>
@@ -2490,4 +2490,41 @@
 <p>Homework 1 (<a href="3/hw1.pdf">PDF</a>)</p>
 <p>Homework 1 Solution (<a href="3/hw1_soln.pdf">PDF</a>)</p>
 <p>FDA Report: total length 8 pages including all images and references, 1 1/2 line spacing, 12 pt. Times font (<a href="3/fda_report_outln.pdf">PDF</a>)</p>
+</br>
+<h2 id="course23">Biomedical Information Technology</h2>
+
+<p>Introduction (<a href="3/intro.pdf">PDF</a>)</p>
+<p>Session 9: Gaps in bio-medical data and applications (<a href="3/0909_hyu.pdf">PDF - 1.0 MB</a>), by Prof. Yu</p>
+<p>Session 14: Creating relational databases from ontologies (<a href="3/1021_db_ontology.pdf">PDF</a>), by Prof. Dewey</p>
+<p>Session 18: Molecular network comparisons (<a href="3/1104_molec_nw.pdf">PDF - 2.4 MB</a>), by Prof. Bhowmick</p>
+
+</br>
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SUPPORTING&nbsp;FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<h3 class="subsubhead">Assignment 1</h3>
+<p>Design and implement a biological pathway interaction database (PID) system (<a href="3/assignment1.pdf">PDF</a>)&nbsp;</p>
+</td>
+<td>
+<p>Schaefer, C. A., et al. "PID: The Pathway Interaction Database." (<a href="3/pid_schaefer.pdf">PDF</a>)</p>
+<p>Data adapted from PID (<a href="3/pid_data.xls">XLS</a>)</p>
+<p>PostgreSQL Mini Installation User Guide (<a href="3/postgresql_user_.pdf">PDF</a>)&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<h3 class="subsubhead">Assignment 2</h3>
+<p>Parsing and querying XML documents (<a href="3/assignment2.pdf">PDF</a>)&nbsp;</p>
+</td>
+<td>Nux tutorial (<a href="3/nux_tutorial.pdf">PDF</a>)&nbsp;</td>
+</tr>
+</tbody>
+</table>
 </br>
