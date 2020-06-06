@@ -1,6 +1,6 @@
 <ul>
 <li><a href="#course1">Introduction to Bioengineering</a></li>
-<li><a href="#course2">Seminar: Fusion and Plasma Physics</a></li>
+<li><a href="#course2">Introduction to Biological Engineering Design</a></li>
 <li><a href="#course3">Introduction to Applied Nuclear Physics</a></li>
 <li><a href="#course4">Nuclear Systems Design Project</a></li>
 <li><a href="#course5">Neutron Science and Reactor Physics</a></li>
@@ -74,5 +74,110 @@
 </tbody>
 </table>
 </br>
+<h2 id="course2">Introduction to Biological Engineering Design</h2>
 
-
+<p>A sample of a superb project log from prior year (<a href="MIT20_020S09_prj1_log_smpl.pdf">PDF&nbsp;-&nbsp;1.1MB</a>)&nbsp;</p>
+<p>A sample progress report, modfied from the Spring 2008 class (<a href="MIT20_020S09_prj2_902prog.pdf">PDF</a>).</p>
+<p>A sample progress report, modfied from the Spring 2008 class (<a href="MIT20_020S09_prj3_902mntr.pdf">PDF</a>).&nbsp;</p>
+</br>
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th>TEAM</th>
+<th>PROJECT DEVELOPMENT NOTEBOOK</th>
+<th>MILESTONE<br />PRESENTATIONS</th>
+<th>FINAL DOCUMENTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p><strong>Boost the Body<br /></strong>(Hepatitis C treatment)</p>
+<p>Students: Samira Daswani, Leanna Morinishi, Jenny Zhou</p>
+<p>Mentor: anonymous MIT student</p>
+</td>
+<td>Contract (<a href="MIT20_020S09_prj7_hepc_ctct.pdf">PDF</a>)</td>
+<td>
+<p>3 Ideas (<a href="MIT20_020S09_prj6_hepc_3id.pdf">PDF</a>)</p>
+<p>Tech Spec (<a href="MIT20_020S09_prj8_hepc_sp.pdf">PDF</a>)</p>
+</td>
+<td>Final presentation (<a href="MIT20_020S09_proj_hepc_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><strong>ENERGYneering</strong><br />(algae biofuel)</p>
+<p>Students: Ragheb El Khaja, Abi Jain, and two anonymous MIT students</p>
+<p>Mentor: Julie Norville</p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p>3 Ideas (<a href="MIT20_020S09_proj13_nrg_3id.pdf">PDF</a>)</p>
+<p>Tech Spec (<a href="MIT20_020S09_proj14_nrg_sp.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p><strong>Meat!</strong><br />(<em>in vitro</em>&nbsp;food)</p>
+<p>Students: Ryan Alexander, Janice O'Brien, and anonymous MIT student</p>
+<p>Mentor: anonymous MIT student</p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p>3 Ideas (<a href="MIT20_020S09_prj4_grow_3id.pdf">PDF</a>)</p>
+<p>Tech Spec (<a href="MIT20_020S09_prj5_grow_sp.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><strong>oncoCURES<br /></strong>(early metastasis detection)</p>
+<p>Students: Two anonymous MIT students</p>
+<p>Mentor: anonymous MIT student</p>
+</td>
+<td>
+<p>Contract (<a href="MIT20_020S09_prj16_onco_ctct.pdf">PDF</a>)</p>
+<p>Log (<a href="MIT20_020S09_prj18_onco_log.pdf">PDF</a>)</p>
+</td>
+<td>
+<p>3 Ideas (<a href="MIT20_020S09_proj_onc15_3id.pdf">PDF</a>)</p>
+<p>Tech Spec (<a href="MIT20_020S09_prj19_onco_sp.pdf">PDF&nbsp;‑&nbsp;2.8MB</a>)</p>
+</td>
+<td>
+<p>Final presentation (<a href="MIT20_020S09_prj17_onco_fnp.pdf">PDF</a>)</p>
+<p>Report (<a href="MIT20_020S09_prj20_onco_td.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><strong>Sleep-away</strong><br />(alertness aid)</p>
+<p>Students: three anonymous MIT students</p>
+<p>Mentor: anonymous MIT student</p>
+</td>
+<td>&nbsp;</td>
+<td>
+<p>3 Ideas (<a href="MIT20_020S09_prj9_neuro_3id.pdf">PDF</a>)</p>
+<p>Tech Spec (<a href="MIT20_020S09_prj10_neuro_sp.pdf">PDF&nbsp;‑&nbsp;1.9MB</a>)</p>
+</td>
+<td>
+<p>Final presentation&nbsp;<span class="nobr">(<a href="MIT20_020S09_proj_neur_fin.pdf">PDF - 1.4MB</a>)</span></p>
+<p>Report (<a href="MIT20_020S09_prj11_neuro_td.pdf">PDF</a>)</p>
+<p>Technical slides (<a href="MIT20_020S09_prj12_neuro_td.pdf">PDF&nbsp;‑&nbsp;1.2MB</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><strong>Trash to Treasure<br /></strong>(accelerated composting)</p>
+<p>Students: two anonymous MIT students</p>
+<p>Mentor: Julie Norville</p>
+</td>
+<td>Contract (<a href="MIT20_020S09_prj22_trsh_cnt.pdf">PDF</a>)</td>
+<td>
+<p>3 Ideas (<a href="MIT20_020S09_prj21_trsh_3id.pdf">PDF</a>)</p>
+<p>Tech Spec (<a href="MIT20_020S09_prj23_trsh_sp.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
