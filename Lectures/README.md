@@ -7,7 +7,7 @@
 <li><a href="#course6">Thermodynamics of Biomolecular Systems</a></li>
 <li><a href="#course7">Biological Engineering Programming</a></li>
 <li><a href="#course8">Computation for Biological Engineers</a></li>
-<li><a href="#course9">Nuclear Reactor Safety</a></li>
+<li><a href="#course9">Mechanisms of Drug Actions</a></li>
 <li><a href="#course10">Applied Nuclear Physics</a></li>
 <li><a href="#course11">Microscopic Theory of Transport</a></li>
 <li><a href="#course12">Electromagnetic Interactions</a></li>
@@ -976,4 +976,159 @@
 </table>
 </br>
 <p>Exam 3 with Solution (<a href="exam3_wsoln.pdf">PDF</a>)</p>
+</br>
+<h2 id="course9">Mechanisms of Drug Actions</h2>
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Overview of the Drug Discovery Process; Fundamental Principles</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT20_201F13_L1_introslide.pdf">Introduction and Fundamentals (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT20_201F13_L2_drugdev1.pdf">Overview of Drug Development 1 (PDF - 12.6MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT20_201F13_L3_drugdev2.pdf">Overview of Drug Development 2 (PDF - 9.0MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT20_201F13_R1_funda.pdf">Fundamentals (PDF - 1.9MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="1/MIT20_201F13_L4_biochem1.pdf">Biochemistry Review Exercise (PDF - 1.3MB)</a></p>
+<p><a href="1/MIT20_201F13_L4_biochem2.pdf">Biochemistry Review Notes (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Uptake and Distribution (Same slides as Recitation 1)</td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT20_201F13_R2_dmeta1.pdf">Drug Metabolism 1 (PDF - 1.2MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT20_201F13_L8_dmeta2.pdf">Drug Metabolism 2 (PDF - 2.3MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT20_201F13_L11_pharma.pdf">Pharmacokinetics (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="row">
+<td><strong>Case Studies and Literature Discussions; Case Study Project</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT20_201F13_R5_overdrug.pdf">Overview of Drug Development 3 (PDF - 12.5MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT20_201F13_L13_murcko.pdf">Case Study (PDF - 7.7MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT20_201F13_L14_antibio.pdf">Case Study: Antibiotics (PDF - 13.3MB)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p>Project Help Session</p>
+<p><a href="1/MIT20_201F13_R6_revQ2.pdf">Review of Question 2 (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT20_201F13_L22_cystic.pdf">Case Study: Cystic Fibrosis (PDF - 7.0MB)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Problem Sets&nbsp;</strong>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT20_201F13_DrgMetbolsm_1.pdf">Drug Metabolism 1 (PDF)</a></td>
+<td><a href="1/MIT20_201F13_DrgMetab1_Sol.pdf">Solutions to Drug Metabolism 1 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT20_201F13_DrgMetbolsm_2.pdf">Drug Metabolism 2 (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT20_201F13_Fundamentals.pdf">Fundamentals (PDF)</a></td>
+<td><a href="1/MIT20_201F13_Fndametls_Sol.pdf">Solutions to Fundamentals (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT20_201F13_Pharmcokinetis.pdf">Pharmacokinetics (PDF)</a></td>
+<td><a href="1/MIT20_201F13_Phamcknts_Sol.pdf">Solutions to Pharmacokinetics (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Case Studies</strong></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT20_201F13_CseStdy_Stats.pdf">Statins Case Study (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="1/MIT20_201F13_CseStdy_Prodrg.pdf">Prodrug Metabolism Mini Case Study (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT20_201F13_CseStdy_Srlmb.pdf">Sarilumab Case Study (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p><a href="1/MIT20_201F13_2013_Quiz.pdf">Take-Home Exam (PDF)</a></p>
+<ul>
+<li><a href="1/MIT20_201F13_Qustn2_Strcts.pdf">Question 2 Structures (PDF)</a></li>
+<li><a href="1/MIT20_201F13_ExtraCredit.pdf">Extra Credit Question (PDF)</a></li>
+</ul>
+</td>
+<td>
+<p><a href="1/MIT20_201F13_SoluQueston2.pdf">Solutions to Question 2 (PDF)</a></p>
+<p><a href="1/MIT20_201F13_SoluQueston3.pdf">Solutions to Question 3 (PDF)</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="1/MIT20_201F13_2012_Quiz.pdf">2012 Take-Home Exam (PDF)</a></td>
+<td><a href="1/MIT20_201F13_2012Solutions.pdf">Solutions to 2012 Take-Home Exam (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT20_201F13_2011_Quiz.pdf">2011 Take-Home Exam (PDF)</a></td>
+<td><a href="1/MIT20_201F13_2011Solutions.pdf">Solutions to 2011 Take-Home Exam (PDF)</a></td>
+</tr>
+</tbody>
+</table>
 </br>
