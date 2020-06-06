@@ -9,7 +9,7 @@
 <li><a href="#course8">Computation for Biological Engineers</a></li>
 <li><a href="#course9">Mechanisms of Drug Actions</a></li>
 <li><a href="#course10">Molecular, Cellular, and Tissue Biomechanics</a></li>
-<li><a href="#course11">Microscopic Theory of Transport</a></li>
+<li><a href="#course11">Analysis of Biomolecular and Cellular Systems</a></li>
 <li><a href="#course12">Electromagnetic Interactions</a></li>
 <li><a href="#course13">Neutron Interactions and Applications</a></li>
 <li><a href="#course14">Materials in Nuclear Engineering</a></li>
@@ -1270,11 +1270,200 @@
 </tbody>
 </table>
 </br>
+<h2 id="course11">Analysis of Biomolecular and Cellular Systems</h2>
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT20_320F12_Lecture1.pdf">Introduction, goals and rationale for the course, protein-ligand interactions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT20_320F12_Lecture2.pdf">Experimental techniques: Titration analysis, fractional saturation, the "pseudo-first order approximation" (PFOA), isothermal titration calorimetry (ITC), mass spectrometry (MS) (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT20_320F12_Lecture3.pdf">Co-immunoprecipitation (Co-IP) and mass spectrometry (MS), Fӧrster resonance energy transfer (FRET), primary ligation assay (PLA), surface plasmon resonance (SPR) (PDF - 1.6MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT20_320F12_Lecture4.pdf">Enzyme kinetics, Michaelis-Menten kinetics (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT20_320F12_Lecture5.pdf">Kinase engineering, competitive inhibition, non-competitive inhibition, epidermal growth factor receptor (EGFR) in cancer, regulation of kinase activity (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT20_320F12_Lecture6.pdf">Constitutive kinases, modeling kinases, how to shut down kinases, multiple substrates, modeling abstraction, mitogen-activated protein kinase (MAPK) cascade (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT20_320F12_Lecture7.pdf">Ultrasensitivity / amplification in the MAPK cascade (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT20_320F12_Lecture8.pdf">Signal shut-down (PDF - 1.6MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT20_320F12_Lecture10.pdf">Transcription factor (TF) phosphorylation (PDF - 1.9MB)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT20_320F12_Lecture11.pdf">Transcriptional regulation: Simple regulation, positive and negative autoregulation (PDF - 2.9MB)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
 
+<p><a href="1/MIT20_320F12_PSET_Catalog.pdf">Practice Problem Catalog (PDF)</a>&nbsp;</p>
+</br>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PROBLEM&nbsp;SETS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>2011&nbsp;</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT20_320F12_2011_PS1.pdf">Problem Set 1 (PDF - 1.3MB)</a></td>
+<td><a href="1/MIT20_320F12_2011_PS1_sol.pdf">Solutions to Problem Set 1 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT20_320F12_2011_PS2.pdf">Problem Set 2 (PDF)</a></td>
+<td><a href="1/MIT20_320F12_2011_PS2_sol.pdf">Solutions to Problem Set 2 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT20_320F12_2011_PS3.pdf">Problem Set 3 (PDF)</a></td>
+<td><a href="1/MIT20_320F12_2011_PS3_sol.pdf">Solutions to Problem Set 3 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT20_320F12_2011_PS4.pdf">Problem Set 4 (PDF)</a></td>
+<td><a href="1/MIT20_320F12_2011_PS4_sol.pdf">Solutions to Problem Set 4 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT20_320F12_2011_PS5.pdf">Problem Set 5 (PDF)</a></td>
+<td><a href="1/MIT20_320F12_2011_PS5_sol.pdf">Solutions to Problem Set 5 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT20_320F12_2011_PS6.pdf">Problem Set 6 (PDF)</a></td>
+<td><a href="1/MIT20_320F12_2011_PS6_sol.pdf">Solutions to Problem Set 6 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>2010&nbsp;</strong></td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="1/MIT20_320F12_Fa2010_PS1_pr.pdf">Problem Set 1 (PDF)</a></p>
+<p><a href="1/PS1_2010_itc.m">PS1_2010_itc.m (M)</a></p>
+</td>
+<td><a href="1/MIT20_320F12_Fa2010_PS1_so.pdf">Solutions to Problem Set 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="1/MIT20_320F12_Fa2010_PS2_pr.pdf">Problem Set 2 (PDF)</a></p>
+<p><a href="1/Jones_Nat_2006.mat">Jones_Nat_2006.mat (MAT)</a></p>
+</td>
+<td><a href="1/MIT20_320F12_Fa2010_PS2_so.pdf">Solutions to Problem Set 2 (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="1/MIT20_320F12_Fa2010_PS3_pr.pdf">Problem Set 3 (PDF)</a></p>
+<p><a href="1/PS2_2010_KinaseCascade.m">KinaseCascade.m (M)</a></p>
+<p><a href="1/PS2_2010_ps3_huang_ferrell.m">PS3_Huang_Ferrell.m (M)</a></p>
+</td>
+<td><a href="1/MIT20_320F12_Fa2010_PS3_so.pdf">Solutions to Problem Set 3 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="1/MIT20_320F12_Fa2010_PS4_pr.pdf">Problem Set 4 (PDF)</a></p>
+<p><a href="1/PS4_2010_FeedbackMAPK.m">PS4_2010_FeedbackMAPK.m (M)</a></p>
+</td>
+<td><a href="1/MIT20_320F12_Fa2010_PS4_so.pdf">Solutions to Problem Set 4 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT20_320F12_Fa2010_PS5_pr.pdf">Problem Set 5 (PDF)</a></td>
+<td><a href="1/MIT20_320F12_Fa2010_PS5_so.pdf">Solutions to Problem Set 5 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT20_320F12_Fa2010_PS6_pr.pdf">Problem Set 6 (PDF)</a></td>
+<td><a href="1/MIT20_320F12_Fa2010_PS6_so.pdf">Solutions to Problem Set 6 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT20_320F12_Fa2010_PS7.pdf">Problem Set 7 (PDF)</a></td>
+<td><a href="1/MIT20_320F12_Fa2010_PS7_so.pdf">Solutions to Problem Set 7 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>2009</strong></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT20_320F12_2009_PS1_Prob.pdf">Problem Set 1 (PDF)</a></td>
+<td><a href="1/MIT20_320F12_2009_PS1_Solu.pdf">Solutions to Problem Set 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT20_320F12_2009_PS2_Prob.pdf">Problem Set 2 (PDF)</a></td>
+<td><a href="1/MIT20_320F12_2009_PS2_Solu.pdf">Solutions to Problem Set 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT20_320F12_2009_PS3_Prob.pdf">Problem Set 3 (PDF)</a></td>
+<td><a href="1/MIT20_320F12_2009_PS3_Solu.pdf">Solutions to Problem Set 3 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="1/MIT20_320F12_2009_PS5_Prob.pdf">Problem Set 5 (PDF)</a></p>
+<p><a href="1/PS5Q3data.mat">PS5Q3data.mat</a></p>
+</td>
+<td><a href="1/MIT20_320F12_2009_PS5_Solu.pdf">Solutions to Problem Set 5 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT20_320F12_2009_PS6_Prob.pdf">Problem Set 6 (PDF)</a></td>
+<td><a href="1/MIT20_320F12_2009_PrSe6_So.pdf">Solutions to Problem Set 6 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
 
-
-
-
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>2012</strong>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="1/MIT20_320F12_2012Exam_1.pdf">Exam 1 (PDF)</a></p>
+<p><a href="1/MIT20_320F12_2012Exam1_esh.pdf">Exam 1 Equation Sheet (PDF)</a></p>
+</td>
+<td><a href="1/MIT20_320F12_2012Exam1_Sol.pdf">Exam 1 Solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT20_320F12_2012Exam_2.pdf">Exam 2 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>2011&nbsp;</strong></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT20_320F12_2011Exam_1.pdf">Exam 1 (PDF)</a></td>
+<td><a href="1/MIT20_320F12_2011Exam1_Sol.pdf">Exam 1 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT20_320F12_2011Exam2.pdf">Exam 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>2010&nbsp;</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT20_320F12_2010Exam1.pdf">Exam 1 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT20_320F12_2010Exam2.pdf">Exam 2 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
