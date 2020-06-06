@@ -620,7 +620,7 @@
 <tr class="row">
 <td>1</td>
 <td>
-<p><a href="mod1">Genome engineering portfolio</a></p>
+<p>Genome engineering portfolio</p>
 </td>
 <td>
 <h3 class="subsubhead">From Atissa Banuazizi</h3>
@@ -631,7 +631,7 @@
 <tr class="alt-row">
 <td>2</td>
 <td>
-<p><a href="mod2">Expression engineering written report</a></p>
+<p>Expression engineering written report</p>
 </td>
 <td>
 <h3 class="subsubhead">From Neal Lerner</h3>
